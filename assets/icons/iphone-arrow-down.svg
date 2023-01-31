@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 7.9374998 7.9375002"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+   <g transform="translate(0,-289.06248)">
+      <g transform="matrix(0.34472406,0,0,0.34472406,-25.524463,212.21048)">
+      <path
+         d="m 85.542952,223.32546 v 22.25019"
+         style="fill:none;stroke:currentColor;stroke-width:0.76458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 85.54295,245.57565 -5.591776,-5.59178"
+         style="fill:none;stroke:currentColor;stroke-width:0.76458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;stroke:currentColor;stroke-width:0.76458335;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 85.569053,245.57565 5.59178,-5.59178" />
+      </g>
+   </g>
+</svg>

@@ -1,0 +1,107 @@
+@font-face {
+  font-family: Poppins;
+  src: url("../fonts/poppins/Poppins-Regular.otf");
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url("../fonts/poppins/Poppins-Bold.otf");
+}
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url("../fonts/poppins/Poppins-Medium.otf");
+}
+
+
+@font-face {
+  font-family: Poppins-Light;
+  src: url("../fonts/poppins/Poppins-Light.otf");
+}
+
+html, body {
+  overflow: hidden;
+}
+
+body {
+  background: #fff;
+}
+
+:focus {
+  outline-width: 0;
+}
+
+*:focus {
+  outline: none !important;
+}
+
+input {
+  &:-webkit-autofill {
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+      outline: none;
+      transition: background-color 0s ease-in-out 5000s !important;
+      -webkit-text-fill-color: #fff !important;
+      caret-color: #fff !important;
+    }
+
+    &::first-line {
+      font-size: 20px !important;
+      font-family: "Poppins", sans-serif !important;
+    }
+  }
+
+  &[type="number"] {
+    -moz-appearance: textfield;
+
+    &::-webkit-outer-spin-button,
+    &::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+  }
+
+  &[type="search"] {
+    &::-webkit-search-decoration,
+    &::-webkit-search-cancel-button,
+    &::-webkit-search-results-button,
+    &::-webkit-search-results-decoration {
+      -webkit-appearance:none;
+      display: none;
+    }
+  }
+
+  &::-ms-reveal,
+  &::-ms-clear {
+    display: none;
+  }
+}
+
+
+@media (min-width: 1024px) {
+  html,body {
+    scrollbar-color: #4a4a4a #e2e2e2;
+  }
+
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-gray-300;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+    width: 8px;
+
+    @apply bg-gray-500;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-gray-700;
+  }
+}

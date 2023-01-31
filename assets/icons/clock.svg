@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="31px" viewBox="0 0 32 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Timer New Icon 1.5px</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-169.000000, -348.000000)" stroke="#000000" stroke-width="1.5">
+            <g id="Timer-New-Icon-1.5px" transform="translate(170.000000, 348.000000)">
+                <circle id="Oval" cx="12.9310345" cy="17.0689655" r="12.9310345"></circle>
+                <polyline id="Path-2" stroke-linecap="round" points="11.6913185 9.31034482 11.637931 18.362069 18.1034482 18.362069"></polyline>
+                <path d="M13.5775862,4.37383121 L13.5775862,1.7876243" id="Path-3"></path>
+                <path d="M25.2155172,12.40619 L28.201512,10.3949289" id="Path-3-Copy"></path>
+                <path d="M9.69827586,1.4980481 L17.4568966,1.4980481" id="Line" stroke-linecap="round"></path>
+                <path d="M27.0358219,8.06823883 L29.8529203,12.40619" id="Line-Copy" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>New ppl Type Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-169.000000, -695.000000)" stroke="#000000" stroke-width="1.5">
+            <g id="New-ppl-Type-Icon" transform="translate(170.000000, 696.000000)">
+                <g id="Add_Person">
+                    <path d="M0.596966047,11.5121342 L11.4770572,11.5121342 L11.4770572,8.58038027 C11.4770572,7.79555456 10.8054843,7.15932764 9.9770572,7.15932764 L2.09696605,7.15932764 C1.26853892,7.15932764 0.596966047,7.79555456 0.596966047,8.58038027 L0.596966047,11.5121342 Z" id="Rectangle"></path>
+                    <ellipse id="Oval-Copy" cx="6.0943776" cy="2.56239442" rx="2.10394958" ry="2.28664705"></ellipse>
+                </g>
+                <g id="Add_Person-Copy" transform="translate(18.000000, 18.000000)">
+                    <path d="M0.596966047,11.5121342 L11.4770572,11.5121342 L11.4770572,8.58038027 C11.4770572,7.79555456 10.8054843,7.15932764 9.9770572,7.15932764 L2.09696605,7.15932764 C1.26853892,7.15932764 0.596966047,7.79555456 0.596966047,8.58038027 L0.596966047,11.5121342 Z" id="Rectangle"></path>
+                    <ellipse id="Oval-Copy" cx="6.0943776" cy="2.56239442" rx="2.10394958" ry="2.28664705"></ellipse>
+                </g>
+                <path d="M15,29.5121342 C7.72379926,29.837378 3.74000904,26 3.04862934,18" id="Path-2" stroke-linecap="round"></path>
+                <g id="Group" stroke-linecap="round" transform="translate(21.600000, 7.800000) rotate(180.000000) translate(-21.600000, -7.800000) translate(14.400000, 1.200000)">
+                    <path d="M14.1373872,12.350307 C6.86118641,12.6755508 2.87739619,8.83817278 2.18601649,0.838172779" id="Path-2-Copy"></path>
+                    <polyline id="Path-3-Copy" points="-1.42108547e-14 2.71414943 2.08350894 0 4.93693516 2.71414943"></polyline>
+                </g>
+                <polyline id="Path-3" stroke-linecap="round" points="0.862612848 19.8759767 2.94612179 17.1618272 5.799548 19.8759767"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

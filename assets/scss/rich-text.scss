@@ -1,0 +1,161 @@
+
+.cw-rich-text {
+  word-wrap: break-word;
+  word-break: break-word;
+  white-space: pre-wrap;
+  line-height: 1.75;
+  font-size: 1rem;
+
+  * {
+    caret-color: currentColor;
+  }
+
+  pre {
+    padding: 0.7rem 1rem;
+    border-radius: 5px;
+    font-size: 0.8rem;
+    overflow-x: auto;
+
+    @apply bg-gray-800 text-white;
+
+    code {
+      display: block;
+    }
+  }
+
+  p {
+    &:empty:before {
+      content: " ";
+    }
+
+    code {
+      display: inline-block;
+      padding: 0.2rem 0.4rem;
+      border-radius: 5px;
+      font-size: 0.8rem;
+      font-weight: bold;
+
+      @apply bg-gray-800 bg-opacity-80 text-white text-opacity-80;
+    }
+  }
+
+  ul,
+  ol {
+    padding-left: 1rem;
+    list-style: unset;
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
+  li > p,
+  li > ol,
+  li > ul {
+    margin: 0;
+  }
+
+  a {
+    text-decoration: underline;
+    @apply text-blue;
+  }
+
+  blockquote {
+    border-left: 3px solid rgba(#fff, 0.1);
+    color: rgba(#fff, 0.8);
+    padding-left: 0.8rem;
+    font-style: italic;
+
+    p {
+      margin: 0;
+    }
+  }
+
+  // ===== DYNAMIC FIELD ====
+  span[data-field] {
+    padding: 0px 10px;
+    @apply bg-gray-750 inline-block text-white whitespace-nowrap cursor-default rounded-lg leading-normal;
+  }
+
+  // ===== IMG =====
+  .editor-image {
+    line-height: 0;
+    min-width: 1rem;
+    min-height: 1rem;
+    margin: 12px 0;
+    @apply inline-block float-none max-w-full align-top my-3 mx-0 rounded-3px;
+
+    &[data-display=left] {
+      margin-left: 12px;
+      margin-right: 12px;
+    }
+
+    &[data-display=left] {
+      float: left;
+      margin-right: 12px;
+    }
+
+    &[data-display=right] {
+      float: right;
+      margin-left: 12px;
+    }
+
+    &[data-display=block] {
+      display: block;
+    }
+  }
+
+  // ====== ALIGNMENT ======
+  *[data-text-align=right] {
+    text-align: right !important;
+  }
+
+  *[data-text-align=center] {
+    text-align: center !important;
+  }
+
+  *[data-text-align=justify] {
+    text-align: justify !important;
+  }
+
+  // ===== INDENT =====
+  @for $i from 1 through 7 /* max-indent */ {
+    $indent-margin-base: 1rem;
+
+    *[data-indent="#{$i}"] {
+      margin-left: $indent-margin-base * $i !important;
+    }
+  }
+
+  // ===== TABLE =====
+  .tableWrapper {
+    margin: 0.5rem 0;
+    overflow-x: auto;
+  }
+
+  table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+
+    td, th {
+      min-width: 1rem;
+      padding: 3px 5px;
+      vertical-align: top;
+      box-sizing: border-box;
+      position: relative;
+      > * {
+        margin-bottom: 0;
+      }
+
+      @apply border border-gray-400;
+    }
+
+    th {
+      font-weight: bold;
+      text-align: left;
+    }
+  }
+}

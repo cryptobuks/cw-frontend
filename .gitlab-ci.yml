@@ -1,0 +1,89 @@
+stages:
+    - build
+    - dockerimage
+    - deploy
+
+variables:
+    image_name: "frontend"
+    image_tag: $CI_COMMIT_SHORT_SHA
+
+cache:
+    paths:
+        - node_modules/
+
+build:
+    stage: build
+    image: node:14.15.4-slim
+    script:
+        - echo "Installation"
+        - node --version
+        - npm install
+        - npm run build
+    artifacts:
+        paths:
+            - dist/
+   
+
+services:
+    - docker:19.03.12-dind
+
+dockerimagedev:
+    stage: dockerimage
+    image: docker:19.03.12
+    script:
+        - docker --version
+        - echo "login to docker"
+        - echo "$CI_REGISTRY_PASSWORD" | docker login -u "$CI_REGISTRY_USER" --password-stdin $CI_REGISTRY 
+        - echo "Create docker image"
+        - docker build -t registry.gitlab.com/cowellness/iseo/frontend/${image_name}:$CI_COMMIT_BRANCH.${image_tag} -t  registry.gitlab.com/cowellness/iseo/frontend/${image_name}:$CI_COMMIT_BRANCH.latest .
+        - echo "Push docker image"
+        - docker push registry.gitlab.com/cowellness/iseo/frontend/${image_name}:$CI_COMMIT_BRANCH.latest
+        - docker push registry.gitlab.com/cowellness/iseo/frontend/${image_name}:$CI_COMMIT_BRANCH.${image_tag}
+        - echo "Local clean-up"
+        - docker image rm registry.gitlab.com/cowellness/iseo/frontend/${image_name}:$CI_COMMIT_BRANCH.latest
+        - docker image rm registry.gitlab.com/cowellness/iseo/frontend/${image_name}:$CI_COMMIT_BRANCH.${image_tag}
+        - echo "Image created sucessfully"
+    only:
+        - dev
+        - staging
+
+deployInDev:
+    stage: deploy
+    before_script:
+        - 'command -v ssh-agent >/dev/null || ( apt-get update -y && apt-get install openssh-client -y )'
+        - eval $(ssh-agent -s)
+        - echo "${K8S_SSH_PRIVATE_KEY}" | tr -d '\r' | ssh-add -
+        - mkdir -p ~/.ssh
+        - chmod 700 ~/.ssh
+        - apt-get update -y && apt-get install knockd -y
+        - knock ${K8S_KNOCK_PARAMS}
+        - sleep 1
+
+    script:
+        - echo "Ready for deployment"
+        - echo "Connecting deployment server"
+        - ssh -o StrictHostKeyChecking=no -T ${K8S_INFRA_SERVER} "${K8S_POST_CONNECTION_DEV} cd ${K8S_YAML_CONFIG_DEV}; export APP_SPACE=dev export APP_NAME=${GLOBAL_IMAGE_NAME}; export APP_IMAGE=registry.gitlab.com/${CI_PROJECT_PATH}/${GLOBAL_IMAGE_NAME}:$CI_COMMIT_REF_NAME.${GLOBAL_IMAGE_TAG};  envsubst < frontend-application.yaml > ${GLOBAL_IMAGE_NAME}.yaml; kubectl apply -f ${GLOBAL_IMAGE_NAME}.yaml"
+    only:
+        refs:
+            - dev
+
+deployInStaging:
+    stage: deploy
+    before_script:
+        - 'command -v ssh-agent >/dev/null || ( apt-get update -y && apt-get install openssh-client -y )'
+        - eval $(ssh-agent -s)
+        - echo "${K8S_SSH_PRIVATE_KEY}" | tr -d '\r' | ssh-add -
+        - mkdir -p ~/.ssh
+        - chmod 700 ~/.ssh
+        - apt-get update -y && apt-get install knockd -y
+        - knock ${K8S_KNOCK_PARAMS}
+        - sleep 1
+
+    script:
+        - echo "Ready for deployment"
+        - echo "Connecting deployment server"
+        - ssh -o StrictHostKeyChecking=no -T ${K8S_INFRA_SERVER} "${K8S_POST_CONNECTION_DEV} cd ${K8S_YAML_CONFIG_STAGING}; export APP_SPACE=staging export APP_NAME=${GLOBAL_IMAGE_NAME}; export APP_IMAGE=registry.gitlab.com/${CI_PROJECT_PATH}/${GLOBAL_IMAGE_NAME}:$CI_COMMIT_REF_NAME.${GLOBAL_IMAGE_TAG};  envsubst < frontend-application.yaml > ${GLOBAL_IMAGE_NAME}.yaml; kubectl apply -f ${GLOBAL_IMAGE_NAME}.yaml"
+    only:
+        refs:
+            - staging
+

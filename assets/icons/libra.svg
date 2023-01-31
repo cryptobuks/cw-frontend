@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="Libra.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="15"
+     inkscape:cy="15"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14" />
+  <title
+     id="title2">Group 25</title>
+  <g
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     id="g14">
+    <path
+       d="M15 12V9.5"
+       stroke="#000"
+       stroke-width="1.5"
+       stroke-linecap="round"
+       id="path4" />
+    <rect
+       stroke="#000"
+       stroke-width="1.5"
+       x=".75"
+       y=".75"
+       width="28.5"
+       height="28.5"
+       rx="5"
+       id="rect6" />
+    <path
+       d="M7.25 12c0-4.035 3.586-7.75 7.75-7.75A7.75 7.75 0 0 1 22.75 12a.75.75 0 0 1-.75.75H8a.75.75 0 0 1-.75-.75zm13.955-.75A6.251 6.251 0 0 0 15 5.75c-3.064 0-5.79 2.576-6.198 5.5h12.403z"
+       fill="#000"
+       fill-rule="nonzero"
+       id="path8" />
+    <text
+       x="18.353001"
+       y="0"
+       style="font-weight:normal;font-size:8px;font-family:SFProText-Regular, 'SF Pro Text';text-align:center;letter-spacing:-0.192;text-anchor:middle;fill:#000000"
+       transform="translate(5.498,15.144)"
+       font-size="8"
+       font-weight="normal"
+       letter-spacing="-.192"
+       id="text12">
+      <tspan
+         x="9.5939999"
+         y="8.8559999"
+         style="text-align:center;text-anchor:middle"
+         id="tspan10">[[text]]</tspan>
+    </text>
+  </g>
+</svg>

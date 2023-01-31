@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="18px" viewBox="0 0 26 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Filter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-Layout" transform="translate(-172.000000, -2402.000000)">
+            <g id="Filter" transform="translate(170.000000, 2396.000000)">
+                <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="29" height="29"></rect>
+                <path d="M3,7.5 L27,7.5" id="Path-9" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M6,12.5 L24,12.5" id="Path-10" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M10,17.5 L20,17.5" id="Path-11" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path>
+                <path d="M10,22.5 L20,22.5" id="Path-11" stroke="#000000" stroke-width="1.5" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

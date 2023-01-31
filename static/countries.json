@@ -1,0 +1,2763 @@
+[
+  {
+    "code": "it",
+    "name": {
+      "en": "Italy",
+      "es": "Italia",
+      "de": "Italien",
+      "fr": "Italie",
+      "it": "Italia"
+    },
+    "mobile": "^3(\\d *){8,9}$",
+    "prefix": "+39",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "al",
+    "name": {
+      "en": "Albania",
+      "es": "Albania",
+      "de": "Albanien",
+      "fr": "Albanie",
+      "it": "Albania"
+    },
+    "prefix": "+355",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ad",
+    "name": {
+      "en": "Andorra",
+      "es": "Andorra",
+      "de": "Andorra",
+      "fr": "Andorre",
+      "it": "Andorra"
+    },
+    "prefix": "+376",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "at",
+    "name": {
+      "en": "Austria",
+      "es": "Austria",
+      "de": "Österreich",
+      "fr": "L'Autriche",
+      "it": "Austria"
+    },
+    "prefix": "+43",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "be",
+    "name": {
+      "en": "Belgium",
+      "es": "Bélgica",
+      "de": "Belgien",
+      "fr": "Belgique",
+      "it": "Belgio"
+    },
+    "prefix": "+32",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "bg",
+    "name": {
+      "en": "Bulgaria",
+      "es": "Bulgaria",
+      "de": "Bulgarien",
+      "fr": "Bulgarie",
+      "it": "Bulgaria"
+    },
+    "prefix": "+359",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "dk",
+    "name": {
+      "en": "Denmark",
+      "es": "Dinamarca",
+      "de": "Dänemark",
+      "fr": "Danemark",
+      "it": "Danimarca"
+    },
+    "prefix": "+45",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "fi",
+    "name": {
+      "en": "Finland",
+      "es": "Finlandia",
+      "de": "Finnland",
+      "fr": "Finlande",
+      "it": "Finlandia"
+    },
+    "prefix": "+358",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "fr",
+    "name": {
+      "en": "France",
+      "es": "Francia",
+      "de": "Frankreich",
+      "fr": "France",
+      "it": "Francia"
+    },
+    "mobile": "^(0|)(6|7)(\\d *){8}$",
+    "prefix": "+33",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "de",
+    "name": {
+      "en": "Germany",
+      "es": "Alemania",
+      "de": "Deutschland",
+      "fr": "Allemagne",
+      "it": "Germania"
+    },
+    "mobile": "^(0|)(15|16|17)(\\d *){8,9}$",
+    "prefix": "+49",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "uk",
+    "name": {
+      "en": "United Kingdom",
+      "es": "Reino Unido",
+      "de": "Großbritannien",
+      "fr": "Royaume-Uni",
+      "it": "Regno Unito"
+    },
+    "mobile": "^(0|)([71-75]|[77-79])(\\d *){8}$",
+    "prefix": "+44",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "gr",
+    "name": {
+      "en": "Greece",
+      "es": "Grecia",
+      "de": "Griechenland",
+      "fr": "Grèce",
+      "it": "Grecia"
+    },
+    "prefix": "+30",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ie",
+    "name": {
+      "en": "Ireland",
+      "es": "Irlanda",
+      "de": "Irland",
+      "fr": "Irlande",
+      "it": "Irlanda"
+    },
+    "prefix": "+353",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "is",
+    "name": {
+      "en": "Iceland",
+      "es": "Islandia",
+      "de": "Island",
+      "fr": "Islande",
+      "it": "Islanda"
+    },
+    "prefix": "+354",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "li",
+    "name": {
+      "en": "Liechtenstein",
+      "es": "Liechtenstein",
+      "de": "Liechtenstein",
+      "fr": "Liechtenstein",
+      "it": "Liechtenstein"
+    },
+    "prefix": "+423",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "lu",
+    "name": {
+      "en": "Luxembourg",
+      "es": "Luxemburgo",
+      "de": "Luxemburg",
+      "fr": "Luxembourg",
+      "it": "Lussemburgo"
+    },
+    "prefix": "+352",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "mt",
+    "name": {
+      "en": "Malta",
+      "es": "Malta",
+      "de": "Malta",
+      "fr": "Malte",
+      "it": "Malta"
+    },
+    "prefix": "+356",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "mc",
+    "name": {
+      "en": "Monaco",
+      "es": "Mónaco",
+      "de": "Monaco",
+      "fr": "Monaco",
+      "it": "Monaco"
+    },
+    "prefix": "+377",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "no",
+    "name": {
+      "en": "Norway",
+      "es": "Noruega",
+      "de": "Norwegen",
+      "fr": "Norvège",
+      "it": "Norvegia"
+    },
+    "prefix": "+47",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "nl",
+    "name": {
+      "en": "Netherlands",
+      "es": "Países Bajos",
+      "de": "Niederlande",
+      "fr": "Pays-Bas",
+      "it": "Paesi Bassi"
+    },
+    "prefix": "+31",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "pl",
+    "name": {
+      "en": "Poland",
+      "es": "Polonia",
+      "de": "Polen",
+      "fr": "Pologne",
+      "it": "Polonia"
+    },
+    "prefix": "+48",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "pt",
+    "name": {
+      "en": "Portugal",
+      "es": "Portugal",
+      "de": "Portugal",
+      "fr": "le Portugal",
+      "it": "Portogallo"
+    },
+    "prefix": "+351",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ro",
+    "name": {
+      "en": "Romania",
+      "es": "Rumania",
+      "de": "Rumänien",
+      "fr": "Roumanie",
+      "it": "Romania"
+    },
+    "prefix": "+40",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "sm",
+    "name": {
+      "en": "San Marino",
+      "es": "San Marino",
+      "de": "San Marino",
+      "fr": "Saint Marin",
+      "it": "San Marino"
+    },
+    "prefix": "+378",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "es",
+    "name": {
+      "en": "Spain",
+      "es": "España",
+      "de": "Spanien",
+      "fr": "Espagne",
+      "it": "Spagna"
+    },
+    "mobile": "^(6|[71-79])(\\d *){9}$",
+    "prefix": "+34",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "se",
+    "name": {
+      "en": "Sweden",
+      "es": "Suecia",
+      "de": "Schweden",
+      "fr": "Suède",
+      "it": "Svezia"
+    },
+    "prefix": "+46",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ch",
+    "name": {
+      "en": "Switzerland",
+      "es": "Suiza",
+      "de": "Schweiz",
+      "fr": "Suisse",
+      "it": "Svizzera"
+    },
+    "prefix": "+41",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ua",
+    "name": {
+      "en": "Ukraine",
+      "es": "Ucrania",
+      "de": "Ukraine",
+      "fr": "Ukraine",
+      "it": "Ucraina"
+    },
+    "prefix": "+380",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "hu",
+    "name": {
+      "en": "Hungary",
+      "es": "Hungría",
+      "de": "Ungarn",
+      "fr": "Hongrie",
+      "it": "Ungheria"
+    },
+    "prefix": "+36",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ru",
+    "name": {
+      "en": "Russian Federation",
+      "es": "Federación Rusa",
+      "de": "Russische Föderation",
+      "fr": "Fédération Russe",
+      "it": "Federazione russa"
+    },
+    "prefix": "+7",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ee",
+    "name": {
+      "en": "Estonia",
+      "es": "Estonia",
+      "de": "Estland",
+      "fr": "Estonie",
+      "it": "Estonia"
+    },
+    "prefix": "+372",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "lv",
+    "name": {
+      "en": "Latvia",
+      "es": "Letonia",
+      "de": "Lettland",
+      "fr": "Lettonie",
+      "it": "Lettonia"
+    },
+    "prefix": "+371",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "lt",
+    "name": {
+      "en": "Lithuania",
+      "es": "Lituania",
+      "de": "Litauen",
+      "fr": "Lituanie",
+      "it": "Lituania"
+    },
+    "prefix": "+370",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "hr",
+    "name": {
+      "en": "Croatia",
+      "es": "Croacia",
+      "de": "Kroatien",
+      "fr": "Croatie",
+      "it": "Croazia"
+    },
+    "prefix": "+385",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "si",
+    "name": {
+      "en": "Slovenia",
+      "es": "Eslovenia",
+      "de": "Slowenien",
+      "fr": "Slovénie",
+      "it": "Slovenia"
+    },
+    "prefix": "+386",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "ba",
+    "name": {
+      "en": "Bosnia and Herzegovina",
+      "es": "Bosnia y Herzegovina",
+      "de": "Bosnien und Herzegowina",
+      "fr": "Bosnie Herzégovine",
+      "it": "Bosnia-Erzegovina"
+    },
+    "prefix": "+387",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mk",
+    "name": {
+      "en": "Macedonia",
+      "es": "Macedonia",
+      "de": "Mazedonien",
+      "fr": "Macédonie",
+      "it": "Macedonia"
+    },
+    "prefix": "+389",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "md",
+    "name": {
+      "en": "Moldova",
+      "es": "Moldavia",
+      "de": "Moldawien",
+      "fr": "Moldavie",
+      "it": "Moldova"
+    },
+    "prefix": "+373",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sk",
+    "name": {
+      "en": "Slovakia",
+      "es": "Eslovaquia",
+      "de": "Slowakei",
+      "fr": "Slovaquie",
+      "it": "Slovacchia"
+    },
+    "prefix": "+421",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "by",
+    "name": {
+      "en": "Belarus",
+      "es": "Bielorrusia",
+      "de": "Weißrussland",
+      "fr": "Biélorussie",
+      "it": "Bielorussia"
+    },
+    "prefix": "+375",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cz",
+    "name": {
+      "en": "Czech Republic",
+      "es": "Republica checa",
+      "de": "Tschechische Republik",
+      "fr": "République Tchèque",
+      "it": "Repubblica ceca"
+    },
+    "prefix": "+420",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "me",
+    "name": {
+      "en": "Montenegro",
+      "es": "Montenegro",
+      "de": "Montenegro",
+      "fr": "Monténégro",
+      "it": "Montenegro"
+    },
+    "prefix": "+382",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "rs",
+    "name": {
+      "en": "Serbia",
+      "es": "Serbia",
+      "de": "Serbien",
+      "fr": "Serbie",
+      "it": "Serbia"
+    },
+    "prefix": "+381",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "af",
+    "name": {
+      "en": "Afghanistan",
+      "es": "Afganistán",
+      "de": "Afghanistan",
+      "fr": "Afghanistan",
+      "it": "Afghanistan"
+    },
+    "prefix": "+93",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sa",
+    "name": {
+      "en": "Saudi Arabia",
+      "es": "Arabia Saudita",
+      "de": "Saudi Arabien",
+      "fr": "Arabie Saoudite",
+      "it": "Arabia Saudita"
+    },
+    "prefix": "+966",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bh",
+    "name": {
+      "en": "Bahrain",
+      "es": "Bahrein",
+      "de": "Bahrein",
+      "fr": "Bahreïn",
+      "it": "Bahrein"
+    },
+    "prefix": "+973",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bd",
+    "name": {
+      "en": "Bangladesh",
+      "es": "Bangladesh",
+      "de": "Bangladesch",
+      "fr": "Bangladesh",
+      "it": "Bangladesh"
+    },
+    "prefix": "+880",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bt",
+    "name": {
+      "en": "Bhutan",
+      "es": "Bután",
+      "de": "Bhutan",
+      "fr": "Bhoutan",
+      "it": "Bhutan"
+    },
+    "prefix": "+975",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mm",
+    "name": {
+      "en": "Myanmar/Burma",
+      "es": "Myanmar / Birmania",
+      "de": "Myanmar (Burma",
+      "fr": "Myanmar / Birmanie",
+      "it": "Myanmar/Birmania"
+    },
+    "prefix": "+95",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bn",
+    "name": {
+      "en": "Brunei Darussalam",
+      "es": "Brunei Darussalam",
+      "de": "Brunei Darussalam",
+      "fr": "Brunei Darussalam",
+      "it": "Brunei Darussalam"
+    },
+    "prefix": "+673",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "kh",
+    "name": {
+      "en": "Cambodia",
+      "es": "Camboya",
+      "de": "Kambodscha",
+      "fr": "Cambodge",
+      "it": "Cambogia"
+    },
+    "prefix": "+855",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "lk",
+    "name": {
+      "en": "Sri Lanka",
+      "es": "Sri Lanka",
+      "de": "Sri Lanka",
+      "fr": "Sri Lanka",
+      "it": "Sri Lanka"
+    },
+    "prefix": "+94",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cn",
+    "name": {
+      "en": "China",
+      "es": "China",
+      "de": "China",
+      "fr": "Chine",
+      "it": "Cina"
+    },
+    "prefix": "+86",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cy",
+    "name": {
+      "en": "Cyprus",
+      "es": "Chipre",
+      "de": "Zypern",
+      "fr": "Chypre",
+      "it": "Cipro"
+    },
+    "prefix": "+357",
+    "iban": true,
+    "bic": true
+  },
+  {
+    "code": "kp",
+    "name": {
+      "en": "North Korea",
+      "es": "Corea del Norte",
+      "de": "Nord Korea",
+      "fr": "Corée du Nord",
+      "it": "Corea del Nord"
+    },
+    "prefix": "+850",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "kr",
+    "name": {
+      "en": "South Korea",
+      "es": "Corea del Sur",
+      "de": "Südkorea",
+      "fr": "Corée du Sud",
+      "it": "Corea del Sud"
+    },
+    "prefix": "+82",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ae",
+    "name": {
+      "en": "United Arab Emirates",
+      "es": "Emiratos Árabes Unidos",
+      "de": "Vereinigte Arabische Emirate",
+      "fr": "Emirats Arabes Unis",
+      "it": "Emirati Arabi Uniti"
+    },
+    "prefix": "+971",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ph",
+    "name": {
+      "en": "Philippines",
+      "es": "Filipinas",
+      "de": "Philippinen",
+      "fr": "Philippines",
+      "it": "Filippine"
+    },
+    "prefix": "+63",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ps",
+    "name": {
+      "en": "Palestine",
+      "es": "Palestina",
+      "de": "Palästina",
+      "fr": "Palestine",
+      "it": "Palestina"
+    },
+    "prefix": "+970",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "jp",
+    "name": {
+      "en": "Japan",
+      "es": "Japón",
+      "de": "Japan",
+      "fr": "Japon",
+      "it": "Giappone"
+    },
+    "prefix": "+81",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "jo",
+    "name": {
+      "en": "Jordan",
+      "es": "Jordán",
+      "de": "Jordan",
+      "fr": "Jordan",
+      "it": "Giordania"
+    },
+    "prefix": "+962",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "in",
+    "name": {
+      "en": "India",
+      "es": "India",
+      "de": "Indien",
+      "fr": "Inde",
+      "it": "India"
+    },
+    "prefix": "+91",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "id",
+    "name": {
+      "en": "Indonesia",
+      "es": "Indonesia",
+      "de": "Indonesien",
+      "fr": "Indonésie",
+      "it": "Indonesia"
+    },
+    "prefix": "+62",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ir",
+    "name": {
+      "en": "Iran",
+      "es": "Corrí",
+      "de": "Ich rannte",
+      "fr": "Iran",
+      "it": "Iran"
+    },
+    "prefix": "+98",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "iq",
+    "name": {
+      "en": "Iraq",
+      "es": "Irak",
+      "de": "Irak",
+      "fr": "Irak",
+      "it": "Iraq"
+    },
+    "prefix": "+964",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "il",
+    "name": {
+      "en": "Israel",
+      "es": "Israel",
+      "de": "Israel",
+      "fr": "Israël",
+      "it": "Israele"
+    },
+    "prefix": "+972",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "kw",
+    "name": {
+      "en": "Kuwait",
+      "es": "Kuwait",
+      "de": "Kuwait",
+      "fr": "Koweit",
+      "it": "Kuwait"
+    },
+    "prefix": "+965",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "la",
+    "name": {
+      "en": "Laos",
+      "es": "Laos",
+      "de": "Laos",
+      "fr": "Laos",
+      "it": "Laos"
+    },
+    "prefix": "+856",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "lb",
+    "name": {
+      "en": "Lebanon",
+      "es": "Líbano",
+      "de": "Libanon",
+      "fr": "Liban",
+      "it": "Libano"
+    },
+    "prefix": "+961",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tl",
+    "name": {
+      "en": "Timor Leste",
+      "es": "Timor Oriental",
+      "de": "Timor Leste",
+      "fr": "Timor Leste",
+      "it": "Timor Leste"
+    },
+    "prefix": "+670",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mv",
+    "name": {
+      "en": "Maldives",
+      "es": "Maldivas",
+      "de": "Malediven",
+      "fr": "Maldives",
+      "it": "Maldive"
+    },
+    "prefix": "+960",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "my",
+    "name": {
+      "en": "Malaysia",
+      "es": "Malasia",
+      "de": "Malaysia",
+      "fr": "Malaisie",
+      "it": "Malaysia"
+    },
+    "prefix": "+60",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mn",
+    "name": {
+      "en": "Mongolia",
+      "es": "Mongolia",
+      "de": "Mongolei",
+      "fr": "Mongolie",
+      "it": "Mongolia"
+    },
+    "prefix": "+976",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "np",
+    "name": {
+      "en": "Nepal",
+      "es": "Nepal",
+      "de": "Nepal",
+      "fr": "Népal",
+      "it": "Nepal"
+    },
+    "prefix": "+977",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "om",
+    "name": {
+      "en": "Oman",
+      "es": "Omán",
+      "de": "Oman",
+      "fr": "Oman",
+      "it": "Oman"
+    },
+    "prefix": "+968",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pk",
+    "name": {
+      "en": "Pakistan",
+      "es": "Pakistán",
+      "de": "Pakistan",
+      "fr": "Pakistan",
+      "it": "Pakistan"
+    },
+    "prefix": "+92",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "qa",
+    "name": {
+      "en": "Qatar",
+      "es": "Katar",
+      "de": "Katar",
+      "fr": "Qatar",
+      "it": "Qatar"
+    },
+    "prefix": "+974",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sg",
+    "name": {
+      "en": "Singapore",
+      "es": "Singapur",
+      "de": "Singapur",
+      "fr": "Singapour",
+      "it": "Singapore"
+    },
+    "prefix": "+65",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sy",
+    "name": {
+      "en": "Syria",
+      "es": "Siria",
+      "de": "Syrien",
+      "fr": "Syrie",
+      "it": "Siria"
+    },
+    "prefix": "+963",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "th",
+    "name": {
+      "en": "Thailand",
+      "es": "Tailandia",
+      "de": "Thailand",
+      "fr": "Thaïlande",
+      "it": "Thailandia"
+    },
+    "prefix": "+66",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tr",
+    "name": {
+      "en": "Turkey",
+      "es": "pavo",
+      "de": "Truthahn",
+      "fr": "dinde",
+      "it": "Turchia"
+    },
+    "prefix": "+90",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "vn",
+    "name": {
+      "en": "Vietnam",
+      "es": "Vietnam",
+      "de": "Vietnam",
+      "fr": "Viêt-Nam",
+      "it": "Vietnam"
+    },
+    "prefix": "+84",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ye",
+    "name": {
+      "en": "Yemen",
+      "es": "Yemen",
+      "de": "Jemen",
+      "fr": "Yémen",
+      "it": "Yemen"
+    },
+    "prefix": "+967",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "kz",
+    "name": {
+      "en": "Kazakhstan",
+      "es": "Kazajstán",
+      "de": "Kasachstan",
+      "fr": "Kazakhstan",
+      "it": "Kazakhstan"
+    },
+    "prefix": "+7",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "uz",
+    "name": {
+      "en": "Uzbekistan",
+      "es": "Uzbekistán",
+      "de": "Usbekistan",
+      "fr": "Ouzbékistan",
+      "it": "Uzbekistan"
+    },
+    "prefix": "+998",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "am",
+    "name": {
+      "en": "Armenia",
+      "es": "Armenia",
+      "de": "Armenien",
+      "fr": "Arménie",
+      "it": "Armenia"
+    },
+    "prefix": "+374",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "az",
+    "name": {
+      "en": "Azerbaijan",
+      "es": "Azerbaiyán",
+      "de": "Aserbaidschan",
+      "fr": "Azerbaïdjan",
+      "it": "Azerbaigian"
+    },
+    "prefix": "+994",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ge",
+    "name": {
+      "en": "Georgia",
+      "es": "Georgia",
+      "de": "Georgia",
+      "fr": "Géorgie",
+      "it": "Georgia"
+    },
+    "prefix": "+995",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "kg",
+    "name": {
+      "en": "Kyrgyzstan",
+      "es": "Kirguizistán",
+      "de": "Kirgisistan",
+      "fr": "Kirghizistan",
+      "it": "Kirghizistan"
+    },
+    "prefix": "+996",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tj",
+    "name": {
+      "en": "Tajikistan",
+      "es": "Tayikistán",
+      "de": "Tadschikistan",
+      "fr": "Tadjikistan",
+      "it": "Tagikistan"
+    },
+    "prefix": "+992",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tw",
+    "name": {
+      "en": "Taiwan",
+      "es": "Taiwán",
+      "de": "Taiwan",
+      "fr": "Taïwan",
+      "it": "Taiwan"
+    },
+    "prefix": "+886",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tm",
+    "name": {
+      "en": "Turkmenistan",
+      "es": "Turkmenistán",
+      "de": "Turkmenistan",
+      "fr": "Turkménistan",
+      "it": "Turkmenistan"
+    },
+    "prefix": "+993",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "dz",
+    "name": {
+      "en": "Algeria",
+      "es": "Argelia",
+      "de": "Algerien",
+      "fr": "Algérie",
+      "it": "Algeria"
+    },
+    "prefix": "+213",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ao",
+    "name": {
+      "en": "Angola",
+      "es": "Angola",
+      "de": "Angola",
+      "fr": "Angola",
+      "it": "Angola"
+    },
+    "prefix": "+244",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ci",
+    "name": {
+      "en": "Côte d'Ivoire",
+      "es": "Costa de Marfil",
+      "de": "Côte d'Ivoire",
+      "fr": "Côte d'Ivoire",
+      "it": "Costa d'Avorio"
+    },
+    "prefix": "+225",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bj",
+    "name": {
+      "en": "Benin",
+      "es": "Benin",
+      "de": "Benin",
+      "fr": "Bénin",
+      "it": "Benin"
+    },
+    "prefix": "+229",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bw",
+    "name": {
+      "en": "Botswana",
+      "es": "Botswana",
+      "de": "Botswana",
+      "fr": "Botswana",
+      "it": "Botswana"
+    },
+    "prefix": "+267",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bf",
+    "name": {
+      "en": "Burkina Faso",
+      "es": "Burkina Faso",
+      "de": "Burkina Faso",
+      "fr": "Burkina Faso",
+      "it": "Burkina Faso"
+    },
+    "prefix": "+226",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bi",
+    "name": {
+      "en": "Burundi",
+      "es": "Burundi",
+      "de": "Burundi",
+      "fr": "Burundi",
+      "it": "Burundi"
+    },
+    "prefix": "+257",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cm",
+    "name": {
+      "en": "Cameroon",
+      "es": "Camerún",
+      "de": "Kamerun",
+      "fr": "Cameroun",
+      "it": "Camerun"
+    },
+    "prefix": "+237",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cv",
+    "name": {
+      "en": "Cape Verde",
+      "es": "Cabo Verde",
+      "de": "Kap Verde",
+      "fr": "Cap-Vert",
+      "it": "Capo Verde"
+    },
+    "prefix": "+238",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cf",
+    "name": {
+      "en": "Central African Republic",
+      "es": "República Centroafricana",
+      "de": "Zentralafrikanische Republik",
+      "fr": "République centrafricaine",
+      "it": "Repubblica Centrafricana"
+    },
+    "prefix": "+236",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "td",
+    "name": {
+      "en": "Chad",
+      "es": "Chad",
+      "de": "Tschad",
+      "fr": "Tchad",
+      "it": "Ciad"
+    },
+    "prefix": "+235",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "km",
+    "name": {
+      "en": "Comoros",
+      "es": "Comoras",
+      "de": "Komoren",
+      "fr": "Comores",
+      "it": "Comore"
+    },
+    "prefix": "+269",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cg",
+    "name": {
+      "en": "Congo",
+      "es": "Congo",
+      "de": "Kongo",
+      "fr": "Congo",
+      "it": "Congo"
+    },
+    "prefix": "+242",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "eg",
+    "name": {
+      "en": "Egypt",
+      "es": "Egipto",
+      "de": "Ägypten",
+      "fr": "Egypte",
+      "it": "Egitto"
+    },
+    "prefix": "+20",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "et",
+    "name": {
+      "en": "Ethiopia",
+      "es": "Etiopía",
+      "de": "Äthiopien",
+      "fr": "Ethiopie",
+      "it": "Etiopia"
+    },
+    "prefix": "+251",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ga",
+    "name": {
+      "en": "Gabon",
+      "es": "Gabón",
+      "de": "Gabun",
+      "fr": "Gabon",
+      "it": "Gabon"
+    },
+    "prefix": "+241",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gm",
+    "name": {
+      "en": "Gambia",
+      "es": "Gambia",
+      "de": "Gambia",
+      "fr": "Gambie",
+      "it": "Gambia"
+    },
+    "prefix": "+220",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gh",
+    "name": {
+      "en": "Ghana",
+      "es": "Ghana",
+      "de": "Ghana",
+      "fr": "Ghana",
+      "it": "Ghana"
+    },
+    "prefix": "+233",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "dj",
+    "name": {
+      "en": "Djibouti",
+      "es": "Djibouti",
+      "de": "Dschibuti",
+      "fr": "Djibouti",
+      "it": "Gibuti"
+    },
+    "prefix": "+253",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gn",
+    "name": {
+      "en": "Guinea",
+      "es": "Guinea",
+      "de": "Guinea",
+      "fr": "Guinée",
+      "it": "Guinea"
+    },
+    "prefix": "+224",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gw",
+    "name": {
+      "en": "Guinea-Bissau",
+      "es": "Guinea-Bissau",
+      "de": "Guinea-Bissau",
+      "fr": "Guinée-Bissau",
+      "it": "Guinea-Bissau"
+    },
+    "prefix": "+245",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gq",
+    "name": {
+      "en": "Equatorial Guinea",
+      "es": "Guinea Ecuatorial",
+      "de": "Äquatorialguinea",
+      "fr": "Guinée Équatoriale",
+      "it": "Guinea equatoriale"
+    },
+    "prefix": "+240",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ke",
+    "name": {
+      "en": "Kenya",
+      "es": "Kenia",
+      "de": "Kenia",
+      "fr": "Kenya",
+      "it": "Kenya"
+    },
+    "prefix": "+254",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ls",
+    "name": {
+      "en": "Lesotho",
+      "es": "Lesoto",
+      "de": "Lesotho",
+      "fr": "Lesotho",
+      "it": "Lesotho"
+    },
+    "prefix": "+266",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "lr",
+    "name": {
+      "en": "Liberia",
+      "es": "Liberia",
+      "de": "Liberia",
+      "fr": "Libéria",
+      "it": "Liberia"
+    },
+    "prefix": "+231",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ly",
+    "name": {
+      "en": "Libya",
+      "es": "Libia",
+      "de": "Libyen",
+      "fr": "Libye",
+      "it": "Libia"
+    },
+    "prefix": "+218",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mg",
+    "name": {
+      "en": "Madagascar",
+      "es": "Madagascar",
+      "de": "Madagaskar",
+      "fr": "Madagascar",
+      "it": "Madagascar"
+    },
+    "prefix": "+261",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mw",
+    "name": {
+      "en": "Malawi",
+      "es": "Malawi",
+      "de": "Malawi",
+      "fr": "Malawi",
+      "it": "Malawi"
+    },
+    "prefix": "+265",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ml",
+    "name": {
+      "en": "Mali",
+      "es": "mali",
+      "de": "Mali",
+      "fr": "Mali",
+      "it": "Mali"
+    },
+    "prefix": "+223",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ma",
+    "name": {
+      "en": "Morocco",
+      "es": "Marruecos",
+      "de": "Marokko",
+      "fr": "Maroc",
+      "it": "Marocco"
+    },
+    "prefix": "+212",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mr",
+    "name": {
+      "en": "Mauritania",
+      "es": "Mauritania",
+      "de": "Mauretanien",
+      "fr": "Mauritanie",
+      "it": "Mauritania"
+    },
+    "prefix": "+222",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mu",
+    "name": {
+      "en": "Mauritius",
+      "es": "Isla mauricio",
+      "de": "Mauritius",
+      "fr": "Ile Maurice",
+      "it": "Maurizio"
+    },
+    "prefix": "+230",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mz",
+    "name": {
+      "en": "Mozambique",
+      "es": "Mozambique",
+      "de": "Mosambik",
+      "fr": "Mozambique",
+      "it": "Mozambico"
+    },
+    "prefix": "+258",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "na",
+    "name": {
+      "en": "Namibia",
+      "es": "Namibia",
+      "de": "Namibia",
+      "fr": "Namibie",
+      "it": "Namibia"
+    },
+    "prefix": "+264",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ne",
+    "name": {
+      "en": "Niger",
+      "es": "Níger",
+      "de": "Niger",
+      "fr": "Niger",
+      "it": "Niger"
+    },
+    "prefix": "+227",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ng",
+    "name": {
+      "en": "Nigeria",
+      "es": "Nigeria",
+      "de": "Nigeria",
+      "fr": "Nigeria",
+      "it": "Nigeria"
+    },
+    "prefix": "+234",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "rw",
+    "name": {
+      "en": "Rwanda",
+      "es": "Ruanda",
+      "de": "Ruanda",
+      "fr": "Rwanda",
+      "it": "Ruanda"
+    },
+    "prefix": "+250",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "st",
+    "name": {
+      "en": "Sao Tome and Principe",
+      "es": "Santo Tomé y Príncipe",
+      "de": "Sao Tome und Principe",
+      "fr": "Sao Tomé-et-Principe",
+      "it": "Sao Tomé e Principe"
+    },
+    "prefix": "+239",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sc",
+    "name": {
+      "en": "Seychelles",
+      "es": "Seychelles",
+      "de": "Seychellen",
+      "fr": "les Seychelles",
+      "it": "Seychelles"
+    },
+    "prefix": "+248",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sn",
+    "name": {
+      "en": "Senegal",
+      "es": "Senegal",
+      "de": "Senegal",
+      "fr": "Sénégal",
+      "it": "Senegal"
+    },
+    "prefix": "+221",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sl",
+    "name": {
+      "en": "Sierra Leone",
+      "es": "Sierra Leona",
+      "de": "Sierra Leone",
+      "fr": "Sierra Leone",
+      "it": "Sierra Leone"
+    },
+    "prefix": "+232",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "so",
+    "name": {
+      "en": "Somalia",
+      "es": "Somalia",
+      "de": "Somalia",
+      "fr": "Somalie",
+      "it": "Somalia"
+    },
+    "prefix": "+252",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "za",
+    "name": {
+      "en": "South Africa",
+      "es": "Sudáfrica",
+      "de": "Südafrika",
+      "fr": "Afrique du Sud",
+      "it": "Sudafrica"
+    },
+    "prefix": "+27",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sd",
+    "name": {
+      "en": "Sudan",
+      "es": "Sudán",
+      "de": "Sudan",
+      "fr": "Soudan",
+      "it": "Sudan"
+    },
+    "prefix": "+249",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sz",
+    "name": {
+      "en": "Eswatini",
+      "es": "Eswatini",
+      "de": "Eswatini",
+      "fr": "Eswatini",
+      "it": "Eswatini"
+    },
+    "prefix": "+268",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tz",
+    "name": {
+      "en": "Tanzania",
+      "es": "Tanzania",
+      "de": "Tansania",
+      "fr": "Tanzanie",
+      "it": "Tanzania"
+    },
+    "prefix": "+255",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tg",
+    "name": {
+      "en": "Togo",
+      "es": "Togo",
+      "de": "Togo",
+      "fr": "Togo",
+      "it": "Togo"
+    },
+    "prefix": "+228",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tn",
+    "name": {
+      "en": "Tunisia",
+      "es": "Túnez",
+      "de": "Tunesien",
+      "fr": "Tunisie",
+      "it": "Tunisia"
+    },
+    "prefix": "+216",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ug",
+    "name": {
+      "en": "Uganda",
+      "es": "Uganda",
+      "de": "Uganda",
+      "fr": "Ouganda",
+      "it": "Uganda"
+    },
+    "prefix": "+256",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cd",
+    "name": {
+      "en": "Democratic Republic of the Congo",
+      "es": "República Democrática del Congo",
+      "de": "Demokratische Republik Kongo",
+      "fr": "République Démocratique du Congo",
+      "it": "Repubblica Democratica del Congo"
+    },
+    "prefix": "+243",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "zm",
+    "name": {
+      "en": "Zambia",
+      "es": "Zambia",
+      "de": "Sambia",
+      "fr": "Zambie",
+      "it": "Zambia"
+    },
+    "prefix": "+260",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "zw",
+    "name": {
+      "en": "Zimbabwe",
+      "es": "Zimbabue",
+      "de": "Zimbabwe",
+      "fr": "Zimbabwe",
+      "it": "Zimbabwe"
+    },
+    "prefix": "+263",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "er",
+    "name": {
+      "en": "Eritrea",
+      "es": "Eritrea",
+      "de": "Eritrea",
+      "fr": "Érythrée",
+      "it": "Eritrea"
+    },
+    "prefix": "+291",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ss",
+    "name": {
+      "en": "South Sudan",
+      "es": "Sudán del Sur",
+      "de": "Südsudan",
+      "fr": "Soudan du sud",
+      "it": "Sud Sudan"
+    },
+    "prefix": "+211",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ag",
+    "name": {
+      "en": "Antigua and Barbuda",
+      "es": "Antigua y Barbuda",
+      "de": "Antigua und Barbuda",
+      "fr": "Antigua-et-Barbuda",
+      "it": "Antigua e Barbuda"
+    },
+    "prefix": "+1268",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bs",
+    "name": {
+      "en": "Bahamas",
+      "es": "Bahamas",
+      "de": "Bahamas",
+      "fr": "Bahamas",
+      "it": "Bahamas"
+    },
+    "prefix": "+1242",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bb",
+    "name": {
+      "en": "Barbados",
+      "es": "Barbados",
+      "de": "Barbados",
+      "fr": "Barbade",
+      "it": "Barbados"
+    },
+    "prefix": "+1246",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bz",
+    "name": {
+      "en": "Belize",
+      "es": "Belice",
+      "de": "Belize",
+      "fr": "Belize",
+      "it": "Belize"
+    },
+    "prefix": "+501",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ca",
+    "name": {
+      "en": "Canada",
+      "es": "Canadá",
+      "de": "Kanada",
+      "fr": "Canada",
+      "it": "Canada"
+    },
+    "prefix": "+1",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cr",
+    "name": {
+      "en": "Costa Rica",
+      "es": "Costa Rica",
+      "de": "Costa Rica",
+      "fr": "Costa Rica",
+      "it": "Costa Rica"
+    },
+    "prefix": "+506",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cu",
+    "name": {
+      "en": "Cuba",
+      "es": "Cuba",
+      "de": "Kuba",
+      "fr": "Cuba",
+      "it": "Cuba"
+    },
+    "prefix": "+53",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "dm",
+    "name": {
+      "en": "Dominica",
+      "es": "dominica",
+      "de": "Dominica",
+      "fr": "Dominique",
+      "it": "Dominica"
+    },
+    "prefix": "+1767",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sv",
+    "name": {
+      "en": "El Salvador",
+      "es": "El Salvador",
+      "de": "El Salvador",
+      "fr": "Le Salvador",
+      "it": "El Salvador"
+    },
+    "prefix": "+503",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "jm",
+    "name": {
+      "en": "Jamaica",
+      "es": "Jamaica",
+      "de": "Jamaika",
+      "fr": "Jamaïque",
+      "it": "Giamaica"
+    },
+    "prefix": "+1876",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gd",
+    "name": {
+      "en": "Grenada",
+      "es": "Granada",
+      "de": "Grenada",
+      "fr": "Grenade",
+      "it": "Grenada"
+    },
+    "prefix": "+1473",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gt",
+    "name": {
+      "en": "Guatemala",
+      "es": "Guatemala",
+      "de": "Guatemala",
+      "fr": "Guatemala",
+      "it": "Guatemala"
+    },
+    "prefix": "+502",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ht",
+    "name": {
+      "en": "Haiti",
+      "es": "Haití",
+      "de": "Haiti",
+      "fr": "Haïti",
+      "it": "Haiti"
+    },
+    "prefix": "+509",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "hn",
+    "name": {
+      "en": "Honduras",
+      "es": "Honduras",
+      "de": "Honduras",
+      "fr": "Honduras",
+      "it": "Honduras"
+    },
+    "prefix": "+504",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mx",
+    "name": {
+      "en": "Mexico",
+      "es": "México",
+      "de": "Mexiko",
+      "fr": "Mexique",
+      "it": "Messico"
+    },
+    "prefix": "+52",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ni",
+    "name": {
+      "en": "Nicaragua",
+      "es": "Nicaragua",
+      "de": "Nicaragua",
+      "fr": "Nicaragua",
+      "it": "Nicaragua"
+    },
+    "prefix": "+505",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pa",
+    "name": {
+      "en": "Panama",
+      "es": "Panamá",
+      "de": "Panama",
+      "fr": "Panama",
+      "it": "Panama"
+    },
+    "prefix": "+507",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "lc",
+    "name": {
+      "en": "Saint Lucia",
+      "es": "Santa Lucía",
+      "de": "St. Lucia",
+      "fr": "Sainte-Lucie",
+      "it": "Santa Lucia"
+    },
+    "prefix": "+1758",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "vc",
+    "name": {
+      "en": "Saint Vincent and the Grenadines",
+      "es": "San Vicente y las Granadinas",
+      "de": "St. Vincent und die Grenadinen",
+      "fr": "Saint-Vincent-et-les-Grenadines",
+      "it": "Saint Vincent e Grenadine"
+    },
+    "prefix": "+1784",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "kn",
+    "name": {
+      "en": "Saint Kitts and Nevis",
+      "es": "Saint Kitts y Nevis",
+      "de": "St. Kitts und Nevis",
+      "fr": "Saint-Christophe-et-Niévès",
+      "it": "Saint Kitts e Nevis"
+    },
+    "prefix": "+1869",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "us",
+    "name": {
+      "en": "United States of America",
+      "es": "Estados Unidos de America",
+      "de": "vereinigte Staaten von Amerika",
+      "fr": "les États-Unis d'Amérique",
+      "it": "Stati Uniti d'America"
+    },
+    "prefix": "+1",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ar",
+    "name": {
+      "en": "Argentina",
+      "es": "Argentina",
+      "de": "Argentinien",
+      "fr": "Argentine",
+      "it": "Argentina"
+    },
+    "prefix": "+54",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bo",
+    "name": {
+      "en": "Bolivia",
+      "es": "Bolivia",
+      "de": "Bolivien",
+      "fr": "Bolivie",
+      "it": "Bolivia"
+    },
+    "prefix": "+591",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "br",
+    "name": {
+      "en": "Brazil",
+      "es": "Brasil",
+      "de": "Brasilien",
+      "fr": "Brésil",
+      "it": "Brasile"
+    },
+    "prefix": "+55",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cl",
+    "name": {
+      "en": "Chile",
+      "es": "Chile",
+      "de": "Chile",
+      "fr": "Chili",
+      "it": "Cile"
+    },
+    "prefix": "+56",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "co",
+    "name": {
+      "en": "Colombia",
+      "es": "Colombia",
+      "de": "Kolumbien",
+      "fr": "Colombie",
+      "it": "Colombia"
+    },
+    "prefix": "+57",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ec",
+    "name": {
+      "en": "Ecuador",
+      "es": "Ecuador",
+      "de": "Ecuador",
+      "fr": "Equateur",
+      "it": "Ecuador"
+    },
+    "prefix": "+593",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gy",
+    "name": {
+      "en": "Guyana",
+      "es": "Guayana",
+      "de": "Guyana",
+      "fr": "Guyane",
+      "it": "Guyana"
+    },
+    "prefix": "+592",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "py",
+    "name": {
+      "en": "Paraguay",
+      "es": "Paraguay",
+      "de": "Paraguay",
+      "fr": "Paraguay",
+      "it": "Paraguay"
+    },
+    "prefix": "+595",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pe",
+    "name": {
+      "en": "Peru",
+      "es": "Perú",
+      "de": "Peru",
+      "fr": "Pérou",
+      "it": "Perù"
+    },
+    "prefix": "+51",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sr",
+    "name": {
+      "en": "Suriname",
+      "es": "Surinam",
+      "de": "Suriname",
+      "fr": "Suriname",
+      "it": "Suriname"
+    },
+    "prefix": "+597",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tt",
+    "name": {
+      "en": "Trinidad and Tobago",
+      "es": "Trinidad y Tobago",
+      "de": "Trinidad und Tobago",
+      "fr": "Trinité-et-Tobago",
+      "it": "Trinidad e Tobago"
+    },
+    "prefix": "+1868",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "uy",
+    "name": {
+      "en": "Uruguay",
+      "es": "Uruguay",
+      "de": "Uruguay",
+      "fr": "Uruguay",
+      "it": "Uruguay"
+    },
+    "prefix": "+598",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ve",
+    "name": {
+      "en": "Venezuela",
+      "es": "Venezuela",
+      "de": "Venezuela",
+      "fr": "Venezuela",
+      "it": "Venezuela"
+    },
+    "prefix": "+58",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "au",
+    "name": {
+      "en": "Australia",
+      "es": "Australia",
+      "de": "Australien",
+      "fr": "Australie",
+      "it": "Australia"
+    },
+    "prefix": "+61",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "fj",
+    "name": {
+      "en": "Fiji",
+      "es": "Fiji",
+      "de": "Fidschi",
+      "fr": "Fidji",
+      "it": "Figi"
+    },
+    "prefix": "+679",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ki",
+    "name": {
+      "en": "Kiribati",
+      "es": "Kiribati",
+      "de": "Kiribati",
+      "fr": "Kiribati",
+      "it": "Kiribati"
+    },
+    "prefix": "+686",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "mh",
+    "name": {
+      "en": "Marshall Islands",
+      "es": "Islas Marshall",
+      "de": "Marshallinseln",
+      "fr": "Iles Marshall",
+      "it": "Isole Marshall"
+    },
+    "prefix": "+692",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "fm",
+    "name": {
+      "en": "Federated States of Micronesia",
+      "es": "Estados Federados de Micronesia",
+      "de": "Die Verbündeten Staaten von Micronesia",
+      "fr": "États fédérés de Micronésie",
+      "it": "Stati Federati di Micronesia"
+    },
+    "prefix": "+691",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "nr",
+    "name": {
+      "en": "Nauru",
+      "es": "Nauru",
+      "de": "Nauru",
+      "fr": "Nauru",
+      "it": "Nauru"
+    },
+    "prefix": "+674",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "nz",
+    "name": {
+      "en": "New Zealand",
+      "es": "Nueva Zelanda",
+      "de": "Neuseeland",
+      "fr": "Nouvelle-Zélande",
+      "it": "Nuova Zelanda"
+    },
+    "prefix": "+64",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pw",
+    "name": {
+      "en": "Palau",
+      "es": "Palau",
+      "de": "Palau",
+      "fr": "Palau",
+      "it": "Palau"
+    },
+    "prefix": "+680",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pg",
+    "name": {
+      "en": "Papua New Guinea",
+      "es": "Papúa Nueva Guinea",
+      "de": "Papua Neu-Guinea",
+      "fr": "Papouasie Nouvelle Guinée",
+      "it": "Papua Nuova Guinea"
+    },
+    "prefix": "+675",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sb",
+    "name": {
+      "en": "Solomon Islands",
+      "es": "Islas Salomón",
+      "de": "Salomon-Inseln",
+      "fr": "îles Salomon",
+      "it": "Isole Salomone"
+    },
+    "prefix": "+677",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ws",
+    "name": {
+      "en": "Samoa",
+      "es": "Samoa",
+      "de": "Samoa",
+      "fr": "Samoa",
+      "it": "Samoa"
+    },
+    "prefix": "+685",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "to",
+    "name": {
+      "en": "Tonga",
+      "es": "Tonga",
+      "de": "Tonga",
+      "fr": "Tonga",
+      "it": "Tonga"
+    },
+    "prefix": "+676",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tv",
+    "name": {
+      "en": "Tuvalu",
+      "es": "Tuvalu",
+      "de": "Tuvalu",
+      "fr": "Tuvalu",
+      "it": "Tuvalu"
+    },
+    "prefix": "+688",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "vu",
+    "name": {
+      "en": "Vanuatu",
+      "es": "Vanuatu",
+      "de": "Vanuatu",
+      "fr": "Vanuatu",
+      "it": "Vanuatu"
+    },
+    "prefix": "+678",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "nc",
+    "name": {
+      "en": "New Caledonia",
+      "es": "Nueva Caledonia",
+      "de": "Neu-Kaledonien",
+      "fr": "Nouvelle Calédonie",
+      "it": "Nuova Caledonia"
+    },
+    "prefix": "+687",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "bm",
+    "name": {
+      "en": "Bermuda",
+      "es": "islas Bermudas",
+      "de": "Bermuda",
+      "fr": "Bermudes",
+      "it": "Bermuda"
+    },
+    "prefix": "+1441",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ck",
+    "name": {
+      "en": "Cook Islands",
+      "es": "Islas Cook",
+      "de": "Cookinseln",
+      "fr": "les Îles Cook",
+      "it": "Isole Cook"
+    },
+    "prefix": "+682",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gi",
+    "name": {
+      "en": "Gibraltar",
+      "es": "Gibraltar",
+      "de": "Gibraltar",
+      "fr": "Gibraltar",
+      "it": "Gibilterra"
+    },
+    "prefix": "+350",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ky",
+    "name": {
+      "en": "Cayman Islands",
+      "es": "Islas Caimán",
+      "de": "Cayman Inseln",
+      "fr": "Îles Caïmans",
+      "it": "Isole Cayman"
+    },
+    "prefix": "+1345",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ai",
+    "name": {
+      "en": "Anguilla",
+      "es": "Anguilla",
+      "de": "Anguilla",
+      "fr": "Anguilla",
+      "it": "Anguilla"
+    },
+    "prefix": "+1264",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pf",
+    "name": {
+      "en": "French Polynesia",
+      "es": "Polinesia francés",
+      "de": "Französisch Polynesien",
+      "fr": "Polynésie française",
+      "it": "Polinesia francese"
+    },
+    "prefix": "+689",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "fo",
+    "name": {
+      "en": "Faroe Islands",
+      "es": "Islas Faroe",
+      "de": "Färöer Inseln",
+      "fr": "Îles Féroé",
+      "it": "Isole Fær Øer"
+    },
+    "prefix": "+298",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "aw",
+    "name": {
+      "en": "Aruba",
+      "es": "Aruba",
+      "de": "Aruba",
+      "fr": "Aruba",
+      "it": "Aruba"
+    },
+    "prefix": "+297",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "sx",
+    "name": {
+      "en": "St Maarten",
+      "es": "St Maarten",
+      "de": "St Maarten",
+      "fr": "St Maarten",
+      "it": "Sint Maarten (NL)"
+    },
+    "prefix": "+1721",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "gl",
+    "name": {
+      "en": "Greenland",
+      "es": "Tierra Verde",
+      "de": "Grönland",
+      "fr": "Groenland",
+      "it": "Groenlandia"
+    },
+    "prefix": "+299",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "fk",
+    "name": {
+      "en": "Falkland Islands (Malvinas)",
+      "es": "Islas Malvinas (Falkland)",
+      "de": "Falklandinseln (Malvinas)",
+      "fr": "Îles Falkland (Malvinas)",
+      "it": "Isole Falkland (Malvine)"
+    },
+    "prefix": "+500",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "ms",
+    "name": {
+      "en": "Montserrat",
+      "es": "Montserrat",
+      "de": "Montserrat",
+      "fr": "Montserrat",
+      "it": "Montserrat"
+    },
+    "prefix": "+1664",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "cw",
+    "name": {
+      "en": "Curaçao",
+      "es": "Curaçao",
+      "de": "Curacao",
+      "fr": "Curacao",
+      "it": "Curaçao"
+    },
+    "prefix": "+5999",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "pm",
+    "name": {
+      "en": "Saint Pierre and Miquelon",
+      "es": "San Pedro y Miquelón",
+      "de": "Saint-Pierre und Miquelon",
+      "fr": "Saint-Pierre-et-Miquelon",
+      "it": "Saint Pierre e Miquelon"
+    },
+    "prefix": "+508",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "tc",
+    "name": {
+      "en": "Turks and Caicos Islands",
+      "es": "Islas Turcas y Caicos",
+      "de": "Turks- und Caicosinseln",
+      "fr": "îles Turques-et-Caïques",
+      "it": "Isole Turks e Caicos"
+    },
+    "prefix": "+1649",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "vg",
+    "name": {
+      "en": "British Virgin Islands",
+      "es": "Islas Vírgenes Británicas",
+      "de": "Britische Jungferninseln",
+      "fr": "Îles Vierges britanniques",
+      "it": "Isole Vergini britanniche"
+    },
+    "prefix": "+1284",
+    "routingNumber": true,
+    "account": true
+  },
+  {
+    "code": "wf",
+    "name": {
+      "en": "Wallis and Futuna Islands",
+      "es": "Wallis y Futuna",
+      "de": "Wallis und Futuna",
+      "fr": "Wallis-et-Futuna",
+      "it": "Wallis e Futuna"
+    },
+    "prefix": "+681",
+    "routingNumber": true,
+    "account": true
+  }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Business Menu_Prospect</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-39.000000, -262.000000)" stroke="#000000" stroke-width="1.5">
+            <g id="Business-Menu_Prospect" transform="translate(40.000000, 263.000000)">
+                <g id="search-icn">
+                    <circle id="Oval" cx="12.1527778" cy="12.1527778" r="12.1527778"></circle>
+                    <path d="M21.1251148,21.5533164 L29.9977712,29.5270837" id="Path" stroke-linecap="round"></path>
+                </g>
+                <g id="Add_Person" transform="translate(4.800000, 6.000000)">
+                    <path d="M0.776055861,15.5533164 C3.09099174,17.3881425 5.43230645,18.3055555 7.8,18.3055555 C10.1676935,18.3055555 12.541085,17.3881425 14.9201744,15.5533164 L14.9201744,11.1544944 C14.9201744,10.1342209 14.0471296,9.30712593 12.9701744,9.30712593 L2.72605586,9.30712593 C1.6491006,9.30712593 0.776055861,10.1342209 0.776055861,11.1544944 L0.776055861,15.5533164 Z" id="Rectangle"></path>
+                    <ellipse id="Oval-Copy" cx="7.92269088" cy="3.33111274" rx="2.73513446" ry="2.97264116"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

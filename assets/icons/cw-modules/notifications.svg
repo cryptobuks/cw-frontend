@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-300.000000, -1545.000000)">
+            <g id="Group-6" transform="translate(300.000000, 1545.000000)">
+                <circle id="Oval" fill="currentColor" cx="15" cy="15" r="15"></circle>
+                <text id="SMS" font-family="Poppins-SemiBold, Poppins" font-size="8" font-weight="500" fill="#FFFFFF">
+                    <tspan x="6.532" y="17.5">SMS</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

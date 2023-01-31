@@ -1,0 +1,1489 @@
+key,en-referral,en-actual,en-new
+activity.asset_label,,,assets
+activity.asset_placeholder,,,Related asset
+activity.asset_tooltip,,,Select the related assets
+activity.description,,,Description
+activity.description_tooltip,,,"asset short description,optional"
+activity.name_label,,,ACTIVITY NAME
+activity.name_placeholder,,,Activity name
+activity.name_tooltip,,,Name of the activity
+activity.sport,,,Sport category
+activity.sport_tooltip,,,Select the related sport category interest
+ask_info.booking_number,,,"If you wish to wait, there are {bookingNumber} people head of you."
+ask_info.firstname.label,,,NAME
+ask_info.firstname.tooltip,,,"Your name, mandatory"
+ask_info.identifier.label,,,Your email or mobile
+ask_info.identifier.tooltip,,,Enter your email address or mobile phone
+ask_info.lastname.label,,,SURNAME
+ask_info.lastname.tooltip,,,"Your surname, it is a mandatory field"
+ask_info.message.label,,,Message
+ask_info.message.placeholder,,,How can we help you?
+ask_info.message.tooltip,,,Enter your message here
+ask_info.thank_you,,,Thanks for your message; we will reply shortly
+ask_info.wait,,,Wait
+asset.address_label,,,asset ADDRESS
+asset.address_placeholder,,,Asset address
+asset.address_tooltip,,,Write the address where the asset is located.
+asset.adult_label,,,ADULTS CAPACITY
+asset.adult_placeholder,,,Adult capacity
+asset.adult_tooltip,,,Add the maximum number of adult the asset can contain or manage
+asset.children_label,,,CHILDREN
+asset.children_placeholder,,,Children capacity
+asset.children_tooltip,,,Add the maximum number of children the asset can contain or manage
+asset.description,,,Description
+asset.description_tooltip,,,"asset short description, optional"
+asset.name_label,,,ASSET NAME
+asset.name_placeholder,,,Asset name
+asset.name_tooltip,,,Name of the GYM asset
+asset.sanification_label,,,SANIFICATION
+asset.sanification_placeholder,,,Sanification time after each lesson
+asset.sanification_tooltip,,,Select the sanification or cleaning time required after each lesson or booking
+asset.type_label,,,TYPE
+asset.type_placeholder,,,Type of asset
+asset.type_tooltip,,,"Select the type of asset. Physical = real room in the GYM or in an other place (i.e. park, ..). Virtual = a digital connected camera to stream classes"
+assets.type.hairdryer-room,,,hairdryer
+assets.type.libra-room,,,libra
+assets.type.locker-room,,,locker
+assets.type.other-room,,,other
+assets.type.physical-room,,,physical
+assets.type.shower-room,,,shower
+assets.type.virtual-room,,,virtual
+assign_role.authorization.label,,,Platform authorization
+assign_role.authorization.tooltip,,,See the authorization to the platform for this role and you customize them. It allows accessbility to cmopany's info and actions. Each role has a standard!
+assign_role.endAt.label,,,Role end date
+assign_role.endAt.tooltip,,,"Select the end date of the role, optional"
+assign_role.id.label,,,Profile
+assign_role.id.placeholder,,,Your email or mobile phone or PIN
+assign_role.id.tooltip,,,Select the user profile
+assign_role.payment.label,,,Add payroll
+assign_role.payment.tooltip,,,See/add the company cost of this role. They will be used in all report and performance index
+assign_role.role.label,,,Role
+assign_role.role.tooltip,,,Select the role
+assign_role.sports.label,,,Add training sport authorization
+assign_role.sports.tooltip,,,See/add the sport the trainer is allowed to teach. It will be used to be selected in PT lesson and as control in course creation
+assign_role.startAt.label,,,Role start date
+assign_role.startAt.tooltip,,,"Select the start date of the role, mandatory"
+auth.data_usage,,,Data usage
+auth.email.validation.unique,,,"Email already existing, log-in instead"
+auth.i_accept_the,,,I accept the
+auth.i_agree_to_the,,,I agree to the
+auth.mobile.validation.unique,,,Mobile already existing
+auth.privacy_policy,,,Privacy Policy
+auth.register_modal_title,,,Manage new profile
+auth.terms_n_conditions,,,Terms and conditions
+auth.to_access_your_acc,,,to access to your account
+auth.validation.email_or_mobile,,,"To register, add the email address or the mobile phone"
+authorization.actions.change,,,Change
+authorization.actions.create,,,Create
+authorization.actions.hide,,,Hide
+authorization.actions.pay,,,Pay
+authorization.actions.read,,,Read
+authorization.card.customized,,,Customized
+authorization.entities.background.label,,,App background
+authorization.entities.broadcast.label,,,Broadcast
+authorization.entities.chat.label,,,Web chat
+authorization.entities.collaborator.label,,,Collaborators
+authorization.entities.contact.label,,,Contacts
+authorization.entities.contract.label,,,Gym contracts
+authorization.entities.contract.tooltip,,,"HIDE | READ | CHANGE the company contract like privacy, terms, commercial, etc. Suggested only for Directors"
+authorization.entities.device.label,,,Gym device
+authorization.entities.group.label,,,Group
+authorization.entities.group.tooltip,,,HIDE | UPDATE a new group or modify an existing one; Suggested UPDATE for Director and Operator; HIDE for the others
+authorization.entities.import.label,,,Import/export
+authorization.entities.mailInChat.label,,,Email in chat
+authorization.entities.profile.label,,,Gym profile
+authorization.entities.roleContacts.label,,,Role related contacts
+authorization.entities.roleContacts.tooltip,,,"HIDE | READ | CHANGE which profile are lated to other roles/collaboratores; suggested CHANGE for Director and READ for Operator, HIDE for the rest"
+authorization.entities.wallet.label,,,Credit Wallet
+authorization.entities.wallet.tooltip,,,HIDE | READ | PAY CW for the SW. Suggested for Directors
+authorization.groups.chat.label,,,Chat
+authorization.groups.profile.label,,,Profile
+authorization.groups.profile.tooltip,,,Related: see limited profiles and groups in relationship to the role (i.e. Salesman see only profile assigned under his/her role a related grou
+authorization.groups.settings.label,,,Gym settings
+authorization.modal.title,,,Platform authorizations
+authorized_sports.card.courses,,,Courses sport authorization
+authorized_sports.card.lessons,,,Personal lessons sport authorization
+authorized_sports.courses.label,,,Sport courses
+authorized_sports.courses.placeholder,,,Sports the trainer can teach in Courses
+authorized_sports.lessons.label,,,Sport PT
+authorized_sports.lessons.placeholder,,,Sports the trainer can teach in Private lesson
+authorized_sports.modal.title,,,Trainer sport authorization
+background.confirm_default,,,Are you sure to set this background as default?
+background.create,,,Create Background
+background.edit_modal_title,,,Edit {name}
+background.landscape_label,,,Landscape Image | 2.560x1.440px | max 5MB
+background.landscape_tooltip,,,"Use landscape images format 2200x1100 pixels max 0,8 MB | Mandatory"
+background.name_label,,,BACKGROUND NAME
+background.name_tooltip,,,Name must be unique and is mandatory
+background.portrait_tooltip,,,"Use portrait images format 1242x2688 pixels max 0,4 MB | Mandatory"
+background.potrait_label,,,Portrait Image | 1.080x1.920 px | max 5MB
+background.profiles_label,,,Profiles
+background.profiles_tooltip,,,"Profiles that can see the background, optional"
+background.sport_label,,,Sport
+background.sport_placeholder,,,Related Sport
+background.sport_toolip,,,"Select the sport interest, optional"
+bank.account.label,,,Account number
+bank.account.title,,,Bank Account
+bank.account.tooltip,,,Account number
+bank.bic.label,,,SWIFT
+bank.bic.tooltip,,,Enter the SWIFT code
+bank.countryCode.label,,,Bank country
+bank.countryCode.tooltip,,,Enter the country of your bank account
+bank.iban.label,,,IBAN
+bank.iban.tooltip,,,IBAN
+bank.name.label,,,Bank name
+bank.name.tooltip,,,Enter bank name
+bank.routingNumber.label,,,Routing number
+bank.routingNumber.tooltip,,,Routing number
+barcode_modal.title,,,Scan the product Barcode
+book_shift.ahead_of_you,,,Ahead of you: {bookingNumber} people.
+book_shift.booking_existed_for,,,Booking already presented for
+book_shift.booking_successfully_for,,,Booking succesfully for
+book_shift.confirm_cancel,,,Are you sure you wish to delete your booking?
+book_shift.delete_successfully,,,Booking is deleted successfully
+book_shift.firstname.label,,,NAME
+book_shift.firstname.tooltip,,,"Your name, mandatory"
+book_shift.identifier.label,,,Your email or mobile
+book_shift.identifier.tooltip,,,Enter your email address or mobile phone
+book_shift.lastname.label,,,SURNAME
+book_shift.lastname.tooltip,,,"Your surname, it is a mandatory field"
+book_shift.we_will_call,,,We will call you when you are the next in the queue
+calendar.calendar_manager_modal.calendar_manager,,,Calendar Manager
+calendar.course_modal.activity.label,,,activity
+calendar.course_modal.activity.placeholder,,,Course related activity | mandatory
+calendar.course_modal.age.tooltip,,,Is the course for any body? Select 0‐100+! Is the course made for a specific age target? Select the age band of the target!
+calendar.course_modal.confirm_exit,,,You have unsaved data. Are you sure you want to exit?
+calendar.course_modal.coni_reporting.label,,,coni reporting
+calendar.course_modal.coni_reporting.tooltip,,,Do you want to send to CONI/EPS/FEDERATION the reporting of this course for all participant (YES); don’t you (NO)
+calendar.course_modal.course_chat.label,,,course chat
+calendar.course_modal.course_chat.tooltip,,,Do you want the course to have a chat related or to be connected with the existing chat (YES); don’t you (NO)
+calendar.course_modal.course_type.label,,,type of course
+calendar.course_modal.course_type.tooltip,,,Do you want the client to buy the course in self service (PUBLIC); do you want only to SELL it (PRIVATE)
+calendar.course_modal.description.label,,,description
+calendar.course_modal.description.placeholder,,,Description
+calendar.course_modal.guests.label,,,guests
+calendar.course_modal.guests.placeholder,,,Guests
+calendar.course_modal.in_presence_price.label,,,price presence
+calendar.course_modal.in_presence_price.placeholder,,,Retail price single lesson in presence
+calendar.course_modal.in_presence_price.tooltip,,,"Add the final retail price for a single lesson when in presence also if you do not sell single lesson, don’t worry about the subscription price now"
+calendar.course_modal.intensity.label,,,intensity
+calendar.course_modal.intensity.tooltip,,,Sport intensity helps SW to calculate calories burned per each client and the client to better understand the level of the course from calendar
+calendar.course_modal.lessons.label,,,Add Lesson
+calendar.course_modal.lessons.tooltip,,,Add one or more lessons to the course
+calendar.course_modal.limit_single_buy.label,,,limit single buy at 1/person
+calendar.course_modal.limit_single_buy.tooltip,,,"SINGLE BUY only for Trial: YES; SINGLE BUY active during the whole period: NO; If price is ""0"": YES"
+calendar.course_modal.name.label,,,course name
+calendar.course_modal.name.placeholder,,,Course Name
+calendar.course_modal.new_course,,,new course
+calendar.course_modal.notes.label,,,Notes
+calendar.course_modal.notes.placeholder,,,Notes
+calendar.course_modal.notes.tooltip,,,"Enter course notes, optional"
+calendar.course_modal.remote_price.label,,,price remote
+calendar.course_modal.remote_price.placeholder,,,Retail price single remote lesson
+calendar.course_modal.remote_price.tooltip,,,The final retail price for a single remote lesson also if you do not sell single lesson; don’t warry about the subscription price now
+calendar.course_modal.single_buy.off,,,single buy off
+calendar.course_modal.single_buy.on,,,single buy on
+calendar.course_modal.single_buy_end.label,,,single buy end
+calendar.course_modal.single_buy_start.label,,,single buy start
+calendar.course_modal.sports.label,,,sport interest
+calendar.course_modal.sports.placeholder,,,Course related sports interest | optional
+calendar.course_modal.vat.label,,,standard VAT
+calendar.course_modal.vat.placeholder,,,Standard VAT
+calendar.course_modal.vat.tooltip,,,"You see the standard country VAT rate you can change and more over the percentage of 0% VAT you know is applicable to this course, usually 100% for CONI sport lessons"
+calendar.lesson_modal.location.label,,,locations
+calendar.lesson_modal.location.placeholder,,,Location: room or address
+calendar.lesson_modal.period.end_after_radio.label,,,End after
+calendar.lesson_modal.period.end_by_input.placeholder,,,End date
+calendar.lesson_modal.period.end_by_radio.label,,,End by
+calendar.lesson_modal.period.label,,,Period Range
+calendar.lesson_modal.period.start.placeholder,,,Start date
+calendar.lesson_modal.period.tooltip,,,"Do you want your lesson to be repeated keeping the timing? Choose the way here! If you want to add lesson with different timing, ADD new LESSON after this one"
+calendar.lesson_modal.recurrence.days,,,Day(s)
+calendar.lesson_modal.recurrence.label,,,Recurrence
+calendar.lesson_modal.recurrence.tooltip,,,"Do you want your lesson to be repeated keeping the timing? Choose the way here! If you want to add lesson with different timing, ADD new LESSON after this one"
+calendar.lesson_modal.recurrence.weeks,,,Week(s)
+calendar.lesson_modal.sanification.label,,,sanification
+calendar.lesson_modal.sanification.placeholder,,,Sanification time
+calendar.lesson_modal.sanification.tooltip,,,Time required to clean or significate the place after the lesson ends
+calendar.lesson_modal.time.duration.placeholder,,,Duration
+calendar.lesson_modal.time.end.placeholder,,,End time
+calendar.lesson_modal.time.start.placeholder,,,Start time
+calendar.lesson_modal.time.tooltip,,,Define the lesson timing: select lesson START and END time or START and DURATION
+calendar.lesson_modal.title,,,Add Lesson
+calendar.lesson_modal.trainers.label,,,add trainer
+calendar.location_capacity_popup.manage_max_places,,,Manage max places for
+calendar.location_capacity_popup.max_places.label,,,places
+calendar.location_capacity_popup.max_places.placeholder,,,Max places
+calendar.settings.bookingRules,,,Booking Rules
+calendar.settings.bookingRules.content.booking,,,Booking <b>{startTime} hours</b> until <b>{endTime} min</b> after lesson starts <br> Un-booking with bonus up to <b>{unBookingTime} min</b> before lesson starts
+calendar.settings.bookingRules.content.violation,,,After <b>{numberOfViolations} violations</b> in the last <b>{violationsPeriod} days</b> the booking is blocked for the next <b>{penaltyPeriod} days</b>
+calendar.settings.bookingRules.demo.booking,,,"Booking opens <span class=""text-cw-red font-bold"">{startTime} hours</span> before the lesson starts"
+calendar.settings.bookingRules.demo.penalty,,,"Every time a booking lesson is not attended generates a violation<br />When the number of violations is equal to <span class=""text-cw-red font-bold"">{numberOfViolations}</span> in the last <span class=""text-cw-red font-bold"">{violationsPeriod} days</span> a penalty occurs. The penalty implies the impossibility to book lessons for the next <span class=""text-cw-red font-bold"">{penaltyPeriod} days</span>"
+calendar.settings.bookingRules.fields.endTime,,,booking end time after lesson starts
+calendar.settings.bookingRules.fields.numberOfViolations,,,n. of violations to be in penalty
+calendar.settings.bookingRules.fields.penaltyPeriod,,,penalty period
+calendar.settings.bookingRules.fields.startTime,,,booking start time before lesson starts
+calendar.settings.bookingRules.fields.unBookingTime,,,un-booking end time before lesson starts
+calendar.settings.bookingRules.fields.violationsPeriod,,,period where to count violations
+calendar.settings.calendarVisibility,,,Calendar Visibility
+calendar.settings.calendarVisibility.content,,,From <b>{daysBefore} days</b> before today <b>{daysAfter} days</b> after today
+calendar.settings.calendarVisibility.fields.daysAfter,,,day of visibility after today
+calendar.settings.calendarVisibility.fields.daysBefore,,,day of visibility before today
+calendar.settings.trackPresence,,,Track Presence
+calendar.settings.trackPresence.content.operator_director,,,Operator/Director: <b>{startTime} min</b> before lesson starts
+calendar.settings.trackPresence.content.trainer,,,Trainer: <b>{startTime} min</b> before lesson starts until <b>{trainerEndTime} min</b> after lesson starts
+calendar.settings.trackPresence.content.user,,,User: <b>{startTime} min</b> before lesson starts until <b>{userEndTime} min</b> after lesson starts
+calendar.settings.trackPresence.fields.startTime,,,start time before lesson starts
+calendar.settings.trackPresence.fields.trainerEndTime,,,trainer end time after lesson ends
+calendar.settings.trackPresence.fields.userEndTime,,,user end time after lesson ends
+calendar.settings.trainerSubstitution,,,Trainer Substitution
+calendar.settings.trainerSubstitution.content,,,Up to <b>{endTime} hours </b> before lesson starts.
+calendar.settings.trainerSubstitution.fields.endTime,,,end time to request before lesson starts
+calendar.trainer_modal.name.label,,,trainer name
+calendar.trainer_modal.name.placeholder,,,Trainer name or email or mobile
+calendar.trainer_modal.name.tooltip,,,Add one or more trariners or invite new one by email or mobile phone
+calendar.trainer_modal.title,,,Add Trainer
+card.search_empty,,,Search with no results
+certificates.create.document_type,,,Document Type
+certificates.create.existing_certificate,,,We found the following existing certificate. Is this the one you wish to add?
+certificates.curriculum,,,curriculum vitae
+certificates.detail.document_name,,,Document Name
+certificates.detail.expires,,,expires
+certificates.detail.not_provided_to,,,not provided to
+certificates.detail.release_date,,,release date
+certificates.detail.uploaded,,,uploaded
+certificates.enable,,,enabling ceritficates
+certificates.identity,,,identity Documents
+certificates.medical,,,medical ceritficates
+certificates.subtype.competitive,,,Competitive
+certificates.subtype.drivingLicense,,,driving license
+certificates.subtype.fiscalCard,,,Fiscal Card
+certificates.subtype.idCard,,,ID Card
+certificates.subtype.nonCompetitive,,,Amateurish
+certificates.subtype.passport,,,passport
+chat_plugin.text_area_placeholder,,,Type your message and send it
+chat_plugin.signin.forgot_password,,,Forgot password?
+chat_plugin.chat_header,,,How can we help you?
+chat_plugin.chat_button,,,OPEN CHAT
+chat_plugin.emailOrPhone,,,Your email or mobile
+chat_plugin.name,,,Your name
+chat_plugin.input.phone.validation.syntax,,,Invalid mobile number
+chat_plugin.widget-button,,,Contact Us
+chat_plugin-settings.exit_confirmation,,,You have unsaved. Are you sure you want to exit?
+chat_plugin.label_icon,,,Label Icon
+chat_plugin.label_text,,,Label Text
+chat_plugin.label_font_size,,,Label Font Size
+chat_plugin.label_and_frame_text_color,,,Label & Frame Text Color
+chat_plugin.label_and_frame_background_color,,,Label & Frame Background Color
+chat_plugin.label_and_frame_background_transparency,,,Label & Frame background Transparency
+chat_plugin.input.dob.validation.gymer_min_age,,,Children under the age of {age} can’t register online. Go to a GYM to register
+chat_plugin.chat_background_transparency,,,Chat background Transparency
+chat_plugin.font_type,,,Font Type
+chat_plugin.font_size,,,Font Size
+chat_plugin.setup,,,Copy the code below and paste it on to evry page of your website (as high in the <head> of the page as possible)
+chat_plugin.title,,,Chat per website
+chat_plugin.validation.required,,,Required
+chat_plugin.input.dob.label,,,Date of birth
+chat_plugin.input.dob.validation.min,,,Date not valid
+chat_plugin.input.dob.validation.max,,,Date not valid
+chat_plugin.input.dob.validation.director_min_age,,,The director need to be at least {age} years old. Please modify the data to proceed
+chat_plugin.input.email.validation.syntax,,,Invalid email address
+chat_plugin.input.email.validation.invalid,,,Invalid email address
+chat_plugin.signin.user_id_tooltip,,,Access the chat simply via email or mobile phone
+chat_plugin.input.pw.label,,,Password
+chat_plugin.signin.user_id_label,,,USER ID
+chat_plugin.input.pw.validation.digit,,,Should contain at least 1 digit
+chat_plugin.input.pw.validation.length,,,Should be at least 8 characters length
+chat_plugin.input.pw.validation.lowercase,,,Should contain at least 1 lowercase character
+chat_plugin.input.pw.validation.no_special_chars,,,Contain invalid character
+chat_plugin.input.pw.validation.required,,,Required
+chat_plugin.input.pw.validation.special,,,Should contain at least 1 special character
+chat_plugin.input.pw.validation.uppercase,,,Should contain at least 1 uppercase character
+chat_plugin.input.phone.label_landline,,,Landline
+chat_plugin.input.phone.label_mobile,,,Mobile
+chat_plugin.auth.terms_n_conditions,,,Terms and conditions
+chat_plugin.auth.mobile.validation.unique,,,Mobile already existing
+chat_plugin.auth.email.validation.unique,,,Email already existing
+chat_plugin.global.click_here,,,click here
+chat_plugin.auth.to_access_your_acc,,,to access to your account
+chat_plugin.register.name.label,,,Name
+chat_plugin.auth.i_agree_to_the,,,I agree to the
+chat_plugin.global.and,,,and
+chat_plugin.auth.data_usage,,,Data usage
+chat_plugin.auth.i_accept_the,,,I accept the
+chat_plugin.auth.privacy_policy,,,Privacy Policy
+chat_plugin.input.email.label,,,Email
+chat_plugin.auth.terms_n_conditions_greeting,,,"Dear user, below is the list of Terms and conditions you authorize"
+chat_plugin.auth.privacy_policy_greeting,,,"Dear user, below is the list of Privacies you authorize"
+chat_plugin.contract.privacy_consent_1,,,"I consent processing my personal data for profiling purposes by {gyms}, also using electronic and automated tool"
+chat_plugin.contract.privacy_consent_2,,,"I consent processing my personal data for marketing and behavioral advertising by {gyms}, also using electronic and automated tools"
+chat_plugin.contract.privacy_consent_3,,,"I consent processing my personal data for third parties marketing and behavioral advertising by {gyms}, also using electronic and automated tools"
+chat_plugin.input.documents.data_use,,,data use
+chat_plugin.input.documents.declaration,,,declaration
+chat_plugin.input.documents.i_accept_the,,,I accept the
+chat_plugin.input.documents.i_agree_to_the,,,I agree to the
+chat_plugin.input.documents.missing_fields_after,,,to complete
+chat_plugin.input.documents.missing_fields_before,,,{name} needs to have {fields} mandatorily filled in. Click
+chat_plugin.input.documents.privacy_modal.greeting,,,"Dear user, below is the list of Privacy Terms you authorize"
+chat_plugin.input.documents.privacy_modal.title,,,Privacy Policy
+chat_plugin.input.documents.privacy_policy,,,privacy policy
+chat_plugin.input.documents.terms_modal.greeting,,,"Dear user, below is the list of Terms and conditions you authorize"
+chat_plugin.input.documents.terms_modal.title,,,Terms and conditions
+chat_plugin.input.documents.terms_n_conditions,,,terms and conditions
+chat_plugin.contracts_modal.greeting.privacy,,,"Dear user, below is the list of Privacy Terms you authorize"
+chat_plugin.contracts_modal.greeting.term,,,"Dear user, below is the list of Terms and conditions you authorize"
+chat_plugin.contract.type.collaborations,,,collaborations
+chat_plugin.contract.type.cw_contract,,,Cowellness Contract
+chat_plugin.contract.type.insurance,,,Sports Insurance
+chat_plugin.contract.type.privacy,,,Privacy Policy
+chat_plugin.contract.type.referrant,,,referrant declaration
+chat_plugin.contract.type.role,,,Role Documents
+chat_plugin.contract.type.term,,,Terms & Conditions
+chat_plugin.global.for,,,for
+chat_plugin.global.here,,,here
+chat.action.no_show,,,No show
+chat.actions.create_broadcast,,,Create new broadcast
+chat.actions.create_group,,,Create new group
+chat.actions.create_individual,,,Create new individual
+chat.audio_recorder.cancel,,,Cancel
+chat.audio_recorder.swipe_to_cancel,,,Swipe to cancel
+chat.broadcast_card.broadcast,,,Broadcast
+chat.broadcast_card.broadcast_info,,,Broadcast Info
+chat.broadcast_card.edit_broadcast,,,Edit Broadcast
+chat.broadcast_modal.broadcast,,,Broadcast
+chat.broadcast_modal.create,,,Create
+chat.broadcast_modal.description_label,,,Description
+chat.broadcast_modal.description_tooltip,,,Enter the broadcast description
+chat.broadcast_modal.manage,,,Manage
+chat.broadcast_modal.managedby_label,,,salesperson
+chat.broadcast_modal.managedby_placeholder,,,Salesperson broadcast manager
+chat.broadcast_modal.managedby_tooltip,,,Select a salesperson if the broadcast needs to be visible and can be managed by a salesperson
+chat.broadcast_modal.name_label,,,Broadcast Name
+chat.broadcast_modal.name_tooltip,,,"Broadcast name, mandatory"
+chat.broadcast_modal.target_label,,,Target
+chat.broadcast_modal.target_tooltip,,,Select the Target
+chat.caption_placeholder,,,Add a caption...
+chat.chat_list.broadcast,,,Broadcast
+chat.chat_list.contacts,,,Contacts
+chat.chats,,,Contacts
+chat.error_file_too_big,,,File too big to be sent. Only files below 600KB can be sent.
+chat.error_unsupported_file_format,,,"Unsupported file format. Supported file types are only: jpg, png, gif and pdf"
+chat.forward_modal.forward,,,Forward
+chat.group_card.active,,,Active
+chat.group_card.edit_group,,,Edit Group
+chat.group_card.group,,,Group
+chat.group_card.group_info,,,Group Info
+chat.group_modal.description_tooltip,,,Enter the group description
+chat.group_modal.group,,,Group
+chat.group_modal.name_label,,,Group Name
+chat.group_modal.name_tooltip,,,"Group name, mandatory"
+chat.input_dropzone,,,Drop file here
+chat.input_emoji_picker.loading,,,Loading...
+chat.input_emoji_picker.not_found,,,Emojis not found
+chat.input_placeholder,,,Write a message
+chat.input_plus_menu.camera,,,Camera
+chat.input_plus_menu.location,,,Location
+chat.input_plus_menu.photo_video_library,,,Photo and video library
+chat.message_actions.delete,,,Delete
+chat.message_actions.download,,,Download
+chat.message_actions.forward,,,Forward
+chat.message_actions.reply,,,Reply
+chat.messages,,,Messages
+chat.photo,,,Photo
+chat.plugin.chat_button,,,OPEN CHAT
+chat.profile_online,,,Online
+chat.quote.you,,,You
+chat.read_less,,,Read less
+chat.read_more,,,Read more
+color.confirm_remove,,,Are you sure you want to delete {name}
+commercial_contract.confirm_activate,,,Activate {name}?
+commercial_contract.confirm_remove,,,Are you sure you want to delete {name}?
+commercial_contract.cw_title,,,CW Commercial Contract
+commercial_contract.gym_title,,,GYM Commercial Contract
+company.address.tooltip,,,Enter the legal address of the GYM
+company.banks.label,,,Add bank account
+company.banks.tooltip,,,Enter bank account details
+company.brand.label,,,Brand
+company.brand.tooltip,,,"Company Brand, optional"
+company.confirm.remove,,,Are you sure to delete this gym?
+company.confirm.suspend,,,Are you sure to suspend this gym?
+company.emails.label,,,Email address
+company.emails.tooltip,,,Enter GYM's email addresses
+company.finish_modal.profiles_created,,,Profiles successfully created!
+company.finish_modal.profiles_sent,,,Request sent for:
+company.finish_modal.title,,,Profiles successfully created
+company.fiscal.label,,,FISCAL ID
+company.fiscal.tooltip,,,FISCAL ID
+company.landlines.label,,,Landline
+company.landlines.tooltip,,,"Landline phone number, optional"
+company.mobiles.label,,,"Company mobile phone, can add more than one"
+company.mobiles.tooltip,,,"Mobile phone number, optional"
+company.name.label,,,Company name
+company.name.tooltip,,,"Company name, mandatory"
+company.notes.label,,,Notes
+company.notes.tooltip,,,"Enter your notes, optional"
+company.onlineLinks.label,,,Online link
+company.onlineLinks.tooltip,,,"Enter GYM web links: website, facebook, linkedin, Instagram or twitter. Optional"
+company.paymentTermId.label,,,Payment terms
+company.paymentTermId.tooltip,,,"Select the Payment Terms to use, by default, to calculate invoice payment date"
+company.pec.label,,,Legal email
+company.pec.tooltip,,,Enter the company legal email address
+company.referents.label,,,Add referent
+company.referents.tooltip,,,Enter the Company referent details
+company.sdi.label,,,Unique billing code (SDI)
+company.sdi.tooltip,,,"Enter the unique billing code (SDI) used for electronic invoicing, optional"
+company.shortDescription.label,,,Short description
+company.shortDescription.tooltip,,,"Profile Motto, short description, optional"
+company.suspend,,,Suspend
+company.validation.unique,,,The {field} is associated to another Profile and can not be used
+company.validation.vat_or_fiscal,,,Enter VAT or FISCAL number
+company.vat.label,,,VAT
+company.vat.tooltip,,,Company VAT number
+company.vatRateId.label,,,VAT rate
+company.vatRateId.tooltip,,,"Select the default VAT rate to apply when invoicing this client, mandatory"
+confirm.default_text,,,Are you sure?
+confirm.default_title,,,Confirmation
+contact_channel.email,,,Email
+contact_channel.messenger,,,Messenger
+contact_channel.skype,,,Skype
+contact_channel.sms,,,SMS
+contact_channel.whatsapp,,,WhatsApp
+contract.accepted_by,,,accepted by profile
+contract.action.duplicate,,,Duplicate
+contract.action.edit,,,Edit
+contract.action.print,,,Print
+contract.confirmation.only_new,,,Only new
+contract.confirmation.text,,,Confirm if the {title} needs to be accepted only by new Contacts or by all Contacts
+contract.confirmation.only_new,,,Only new
+contract.no_signatures,,,No signed profiles
+contract.not_found,,,no document found
+contract.privacy_consent_1,,,"I consent processing my personal data for profiling purposes by {gyms}, also using electronic and automated tool"
+contract.privacy_consent_2,,,"I consent processing my personal data for marketing and behavioral advertising by {gyms}, also using electronic and automated tools"
+contract.privacy_consent_3,,,"I consent processing my personal data for third parties marketing and behavioral advertising by {gyms}, also using electronic and automated tools"
+contract.signatures,,,profile list
+contract.status.active,,,Active From
+contract.status.draft,,,To be activated
+contract.status.expired,,,Expired
+contract.status.pending,,,Pending
+contract.status.published,,,Published
+contract.switch_to,,,Switch to {name}
+contract.type.collaborations,,,collaborations
+contract.type.cw_contract,,,Cowellness Contract
+contract.type.insurance,,,Sports Insurance
+contract.type.privacy,,,Privacy Policy
+contract.type.referrant,,,referrant declaration
+contract.type.role,,,Role Documents
+contract.type.term,,,Terms & Conditions
+contracts_modal.greeting.privacy,,,"Dear user, below is the list of Privacy Terms you authorize"
+contracts_modal.greeting.term,,,"Dear user, below is the list of Terms and conditions you authorize"
+copy_modal.click_to_copy,,,Click to copy
+cw_modules.summary.billable_at,,,Billable at
+cw_modules.summary.discount.label,,,Dicount
+cw_modules.summary.discounted.setup,,,Setup price discounted
+cw_modules.summary.discounted.variable,,,Variable price discoutned
+cw_modules.summary.setup_price,,,Setup price
+cw_modules.summary.setup_price.text,,,one shot accoutned in advance
+cw_modules.summary.variable_price,,,Variable price
+cw_modules.summary.contact_price.text,,,per uploaded profile
+cw_modules.summary.variable_price.text,,,per active profile per year accoutned daily
+dashboard.access_qr_code,,,Access via QR Code
+dashboard.best_and_worst,,,Best & worst
+dashboard.client,,,Client
+dashboard.contact,,,Contacts
+dashboard.objective_and_performace,,,Objective & performances
+dashboard.to_try,,,To try
+dashboard.todo,,,To do's
+days.friday,,,Friday
+days.monday,,,Monday
+days.saturday,,,Saturday
+days.sunday,,,Sunday
+days.thursday,,,Thursday
+days.today,,,Today
+days.tomorrow,,,Tomorrow
+days.tuesday,,,Tuesday
+days.wednesday,,,Wednesday
+days.yesterday,,,Yesterday
+device_access.access,,,Access
+device_access.terms_popup.accept,,,ACCEPT HERE
+device_access.terms_popup.text,,,Ask {name} to accept yor Privacy and Terms and Conditions to connect.
+device_home.ask_info,,,Ask info
+device_home.auth_fail.text,,,This gym device has been disconnected and can’t be used anymore. It need to be uninstalled
+device_home.book_your_shift,,,Book your shift
+device_home.dob_validation.fail.password,,,Unable to proceed with the password reset
+device_home.dob_validation.fail.profile,,,Unable to access this profile
+device_home.welcome,,,Welcome
+device_password_modal.title,,,Password Reset
+dob_validation_popup.description,,,Confirm your date of birth to proceed
+dob_validation_popup.fail_title,,,Invalid entry
+dob_validation_popup.invalid,,,Unable to access to this profile
+dob_validation_popup.label,,,Date of birth
+dob_validation_popup.tooltip,,,Enter the date of birth of the profile
+editor.align_center,,,Center
+editor.align_justify,,,Justify
+editor.align_left,,,Align left
+editor.align_right,,,Align right
+editor.bold,,,Bold
+editor.bullet_list,,,Bullets
+editor.clear_format,,,Clear format
+editor.dynamic_field,,,Dynamic field
+editor.font_size,,,Font size
+editor.image_break_text,,,Break text
+editor.image_float_left,,,Float left
+editor.image_float_right,,,Float right
+editor.image_inline,,,Inline
+editor.image_insert,,,Insert image
+editor.image_remove,,,Remove
+editor.indent,,,Increase indent
+editor.italic,,,Italic
+editor.ordered_list,,,Ordered list
+editor.outdent,,,Decrease indent
+editor.redo,,,Redo
+editor.strike_through,,,Strikethrough
+editor.underline,,,Underline
+editor.undo,,,Undo
+editor.url_insert,,,Insert link
+editor.url_new_tab,,,Open in new tab
+editor.url_unlink,,,Remove link
+entities.age_target,,,age target
+entities.background_image,,,New Background
+entities.bank,,,Bank
+entities.chat_email,,,chat email
+entities.commercial_contract,,,commercial contract
+entities.company,,,company
+entities.gym,,,GYM profile
+entities.price_list,,,price list
+entities.privacy_policy,,,privacy policy
+entities.product,,,product
+entities.profile,,,profile
+entities.role_document,,,role document
+entities.sport_interest,,,sport interest
+entities.system_message,,,system message
+entities.term_n_condition,,,term & condition
+entities.term_of_payment,,,term of payment
+entities.translation,,,translation
+entities.vat_rate,,,VAT rate
+filters.label.select_active_or_suspended,,,Select Active or Suspended
+forgot_pw.email_description,,,"Type your email, you will receive a link to reset your password"
+forgot_pw.email_invalid_msg,,,"The typed email is incorrect, try with a different one"
+forgot_pw.modal_title,,,Request password reset
+forgot_pw.pin_description,,,"Type your Personal identification number (PIN), Company VAT number or Company Fiscal code"
+forgot_pw.pin_invalid_msg,,,"The PIN is incorrect! Check it, change it and continue"
+forgot_pw.pin_label,,,PIN
+forgot_pw.pin_placeholder,,,Personal identification number
+forgot_pw.sent_email,,,We sent you an email with instruction to access to your account
+forgot_pw.sent_email_description,,,Don't you receive the email? Please check the spam
+forgot_pw.sent_pin,,,The password reset is waiting in your GYM
+forgot_pw.sent_sms,,,We sent you an SMS with instruction to access your account
+forgot_pw.sms_description,,,"Type your mobile, you will receive a link to reset your password"
+forgot_pw.sms_invalid_msg,,,"The typed mobile is incorrect, try with a different one"
+global.accept,,,accept
+global.action_add_tooltip,,,Add
+global.activate,,,Activate
+global.active,,,Active
+global.activity,,,Activity
+global.add,,,Add
+global.address,,,Address
+global.age,,,age
+global.all,,,All
+global.and,,,and
+global.approved,,,approved
+global.assign,,,assign
+global.blocked,,,Blocked
+global.booking,,,booking
+global.by,,,by
+global.click_here,,,click here
+global.confirm_remove,,,Are you sure you want to delete {name}?
+global.connected,,,connected
+global.contract,,,contract
+global.copy,,,copy
+global.correct,,,Correct
+global.days,,,days
+global.deactivate,,,De-activate
+global.decline,,,decline
+global.default,,,Default
+global.disconnected,,,Disconnected
+global.discount,,,Discount
+global.discounted,,,Discounted
+global.document,,,Document
+global.duration,,,duration
+global.end,,,end
+global.expiry_date,,,Expiry date
+global.exported,,,Exported
+global.file,,,file
+global.for,,,for
+global.here,,,here
+global.invite,,,Invite
+global.languages,,,Languages
+global.lessons,,,Lessons
+global.manage,,,Manage
+global.minutes,,,minutes
+global.my,,,My {name}
+global.name,,,Name
+global.new,,,new {name}
+global.no,,,No
+global.not_approved,,,not approved
+global.notifications,,,Notifications
+global.or,,,or
+global.penalty,,,penalty
+global.private,,,private
+global.profiles,,,Profiles
+global.prospect,,,Prospect
+global.public,,,public
+global.publish,,,Publish
+global.search,,,Search
+global.search_by,,,Search by {name}
+global.search_for,,,Search for {name}
+global.settings,,,Settings
+global.sports,,,sports
+global.start,,,start
+global.success,,,Success
+global.suspended,,,Suspended
+global.translation,,,Translation
+global.type,,,Type
+global.unblocked,,,Unblocked
+global.update,,,Update
+global.use,,,Use
+global.violations,,,violations
+global.wallet,,,Wallet
+global.yes,,,Yes
+gym.address.tooltip,,,Enter the legal address of the GYM
+gym.balanceStartDate.label,,,Start date balance sheet
+gym.balanceStartDate.tooltip,,,"Select the day and month in which the balance sheet starts, optional"
+gym.banks.label,,,Add bank account
+gym.banks.tooltip,,,Enter bank account details
+gym.brand.label,,,Brand
+gym.brand.tooltip,,,Enter the Brand of the GYM
+gym.card.group.head,,,Group head
+gym.card.group.son,,,Group son
+gym.codiceAteco.label,,,Codice ateco
+gym.companyType.label,,,Company type
+gym.confirm.remove,,,Are you sure to delete this gym?
+gym.confirm.suspend,,,Are you sure to suspend this gym?
+gym.credits.label,,,Credits
+gym.credits.tooltip,,,Credits
+gym.cwModules.label,,,CW Modules
+gym.cwModules.tooltip,,,CW Modules
+gym.directors.label,,,Add director
+gym.directors.tooltip,,,"Enter the GYM Director details, mandatory"
+gym.emails.label,,,Email address
+gym.emails.tooltip,,,Enter GYM's email addresses
+gym.managedCountries.label,,,Managed countries
+gym.managedCountries.tooltip,,,Select the countries where the CW entity can operate
+gym.fiscal.label,,,Fiscal ID
+gym.fiscal.tooltip,,,Enter the GYM Fiscal ID
+gym.group.label,,,Gym - unit
+gym.group.placeholder,,,GYM or UNIT?
+gym.group.tooltip,,,GYM or UNIT?
+gym.group.type.cowellness,,,COWELLNESS
+gym.group.type.gym,,,GYM
+gym.group.type.unit,,,UNIT
+gym.groups.label,,,Add group
+gym.groups.tooltip,,,"If the GYM belongs to a corporate group, it allows to enter a subsidiary or parent company. Optional"
+gym.landlines.label,,,Landline
+gym.landlines.tooltip,,,"Landline phone number, optional"
+gym.mailInChat.label,,,Email in chat
+gym.mailInChat.tooltip,,,"To allow emails to be received in your CoWellness chat, it’s required to configure automatic email forward toward to %getfit@cwemail.net% . To configure email forward proceed as follow:<br>Gmail<br>Yahoo<br>Hotmail<br>Outlook"
+gym.mobiles.label,,,Mobile
+gym.mobiles.tooltip,,,"Mobile phone number, optional"
+gym.name.label,,,GYM NAME
+gym.name.tooltip,,,"GYM name, mandatory"
+gym.notes.label,,,Notes
+gym.notes.tooltip,,,"Enter your notes, optional"
+gym.onlineLinks.label,,,Online link
+gym.onlineLinks.tooltip,,,"Enter GYM web links: website, facebook, linkedin, Instagram or twitter. Optional"
+gym.open_hours.add_exception,,,add exception
+gym.open_hours.closed,,,closed
+gym.open_hours.edit_exception,,,edit exception
+gym.open_hours.exceptions,,,closures and exceptions
+gym.open_hours.from,,,from
+gym.open_hours.open,,,open
+gym.open_hours.open_now,,,open now
+gym.open_hours.open_times,,,weekly opening times
+gym.open_hours.to,,,to
+gym.operativeAddresses.tooltip,,,"Enter the operative address of the GYM, optional"
+gym.pec.label,,,Legal email
+gym.pec.tooltip,,,Enter the company legal email address
+gym.rea.label,,,REA
+gym.cwSalesman.label,,,CW Salesman
+gym.cwSalesman.placeholder,,,CW Reference Salesman
+gym.cwSalesman.tooltip,,,"Enter the CW referent Salesman, optional"
+gym.sdi.label,,,Unique billing code (SDI)
+gym.sdi.tooltip,,,"Enter the unique billing code (SDI) used for electronic invoicing, optional"
+gym.shortDescription.label,,,Short description
+gym.shortDescription.tooltip,,,"GYM short description, optional"
+gym.suspend,,,Suspend
+gym.taxRegime.label,,,Tax regime
+gym.validation.profile_type,,,It’s not possible to create a GYM with this {field}
+gym.validation.profile_type.confirm_after,,,to ask for Cowellness support
+gym.validation.profile_type.confirm_before,,,"If it’s correct, click"
+gym.validation.unique,,,The {field} is associated to another Profile and can not be used
+gym.validation.vat_or_fiscal,,,Enter VAT or FISCAL number
+gym.vat.label,,,VAT
+gym.vat.tooltip,,,Enter the GYM VAT number
+gym.vatRateId.label,,,VAT rate
+gym.vatRateId.tooltip,,,"Select the default VAT rate to apply when invoicing this client, mandatory"
+gym_device.instruction,,,1. Open your device camera<br>2. Scan the above QE code<br>3. Open the link and install the APP
+gym_device.name.label,,,DEVICE NAME
+gym_device.name.placeholder,,,GYM device name
+gym_device.name.tooltip,,,Name of the device
+gym_device.name.validation.unique,,,Name has already been used
+gym_device.remove_confirmation,,,Are you sure you want to delete {deviceName}?
+gym_device.status.offline,,,Connected Offline
+gym_device.status.online,,,Connected Online
+gym_device.status.toBeActivated,,,To be activated
+img_editor.modal_title,,,Edit photo
+import_contacts.file_data,,,Uploaded file: {name} with {rows} rows and {columns} columns
+import_contacts.rules.field_label,,,"The field label is in the first row of the file, to correctly identify fields."
+import_contacts.rules.field_seperator,,,CSV file has the ; (semicolon) as field seperator
+import_contacts.verify_that,,,Please verify that
+input.address.domicile,,,Domicile
+input.address.legal,,,Legal
+input.address.operative,,,Operative
+input.address.placeholder,,,{type} address
+input.address.residental,,,Residental
+input.address.validation.supported_country,,,It’s not possible to create a GYM in {country}
+input.allowed_files,,,It's possible to import a {allowed} file
+input.banks.confirm_remove,,,Are you sure to delete this bank account?
+input.banks.label,,,Add bank account
+input.banks.label.unit,,,Add bank unit
+input.banks.tooltip,,,Enter bank details
+input.banks.tooltip.unit,,,Enter bank unit details
+input.billing_code.validation,,,Invalid billing code
+input.chat_email.activity,,,Activity {email} last {date}
+input.chat_email.label,,,Email in chat
+input.chat_email.modal.description,,,"To allow emails to be received in your CoWellness chat, it’s required to configure automatic email forward toward"
+input.chat_email.modal.instructions,,,To configure email forward proceed as follow:
+input.chat_email.validation.unique,,,This alias cannot be used since belong to a different Profile
+input.credits.credit.label,,,Credit
+input.credits.end.label,,,Start date
+input.credits.start.label,,,End date
+input.cw_modules.card.active,,,Active
+input.cw_modules.card.inactive,,,Disabled
+input.cw_modules.cw_terms_n_conditions,,,CW TErms & Conditions
+input.cw_modules.description,,,Description
+input.cw_modules.discount.label,,,Discount
+input.cw_modules.discount.tooltip,,,Discount for set-up
+input.cw_modules.discount_end.label,,,End
+input.cw_modules.discount_start.label,,,Start
+input.cw_modules.label,,,CW Modules
+input.cw_modules.module,,,module
+input.cw_modules.offers.label,,,price offer
+input.cw_modules.offers.tooltip,,,
+input.cw_modules.paid_by_group,,,Paid by group
+input.cw_modules.paid_by_gym,,,Paid by gym
+input.cw_modules.price,,,Price
+input.cw_modules.ready_contacts.label,,,Contacts
+input.cw_modules.ready_contacts.placeholder,,,Contacts to upload
+input.directors.accepted,,,Accepted
+input.directors.confirm_remove,,,"Are you sure you want to remove ""{name}"" as {role}?"
+input.directors.sent,,,Sent
+input.directors.to_be_confirmed,,,To be confirmed
+input.dob.label,,,Date of birth
+input.dob.validation.director_min_age,,,The director need to be at least {age} years old. Please modify the data to proceed
+input.dob.validation.gymer_min_age,,,Children under the age of {age} can’t register online. Go to a GYM to register
+input.dob.validation.max,,,Date not valid
+input.dob.validation.min,,,Date not valid
+input.documents.data_use,,,data use
+input.documents.declaration,,,declaration
+input.documents.i_accept_the,,,I accept the
+input.documents.i_agree_to_the,,,I agree to the
+input.documents.missing_fields_after,,,to complete
+input.documents.missing_fields_before,,,{name} needs to have {fields} mandatorily filled in. Click
+input.documents.privacy_modal.greeting,,,"Dear user, below is the list of Privacy Terms you authorize"
+input.documents.privacy_modal.title,,,Privacy Policy
+input.documents.privacy_policy,,,privacy policy
+input.documents.terms_modal.greeting,,,"Dear user, below is the list of Terms and conditions you authorize"
+input.documents.terms_modal.title,,,Terms and conditions
+input.documents.terms_n_conditions,,,terms and conditions
+input.email.validation.invalid,,,Invalid email address
+input.email.validation.profile_role,,,This email could not be used
+input.email.validation.syntax,,,Invalid email address
+input.email.validation.unique,,,This email can not be used since belong to a different Profile
+input.email_or_mobile.error.invalid_type_code,,,This can not be used
+input.email_or_mobile.error.syntax,,,Must be an email address or mobile phone number
+input.fiscal.validation.syntax,,,Enter a valid Fiscal ID
+input.fiscal.validation.unique,,,The fiscal is associated to another Profile and can not be used
+input.gender.female,,,Female
+input.gender.label,,,GENDER
+input.gender.male,,,Male
+input.gender.other,,,Other
+input.individual_profile.new_contact,,,New contact
+input.link.label,,,Online link
+input.link.placeholder,,,Online link
+input.link.validation.syntax,,,"Enter a valid webmFacebook,Linkedin, Instagram or Twitter link"
+input.phone.label_landline,,,Landline
+input.phone.label_mobile,,,Mobile
+input.phone.validation.profile_role,,,This mobile could not be used
+input.phone.validation.syntax,,,Invalid mobile number or country code
+input.phone.validation.unique,,,This mobile can not be used since belong to a different Profile
+input.photo.rule.max_size,,,Image size should be less than {max}MB
+input.photo.rule.resolution,,,Image resolution should be {resolution}
+input.pin.confirm_inconsistency,,,Which of the following data is correct:
+input.pin.confirm_new_pin,,,"Do you confirm the new pin ""{pin}"" is correct?"
+input.pin.validation.profile_role,,,This pin could not be used
+input.pin.validation.syntax,,,The typed pin is not valid
+input.pin.validation.unique,,,This PIN can not be used since belong to a different Profile
+input.pw.label,,,Password
+input.pw.validation.digit,,,Should contain at least 1 digit
+input.pw.validation.length,,,Should be at least 8 characters length
+input.pw.validation.lowercase,,,Should contain at least 1 lowercase character
+input.pw.validation.no_special_chars,,,Contain invalid character
+input.pw.validation.required,,,This field is mandatory
+input.pw.validation.special,,,Should contain at least 1 special character
+input.pw.validation.uppercase,,,Should contain at least 1 uppercase character
+input.select_file,,,Select the file to import
+input.acquisition_channel.advertising_campaign,,,Advertising Campaign
+input.acquisition_channel.campagin_type.label,,,Campaign type
+input.acquisition_channel.campagin_type.tooltip,,,"Select the advertising acquisition channel, optional"
+input.acquisition_channel.friend.label,,,Friend - Code
+input.acquisition_channel.friend.placeholder,,,Friend name or friend code
+input.acquisition_channel.friend.tooltip,,,"Select the friend name or the friend code, optional"
+input.acquisition_channel.other,,,Other
+input.acquisition_channel.word_of_mouth,,,Word of mouth
+input.validation.double_check,,,"Double check the address, is it"
+input.vat.placeholder,,,VAT number
+input.vat.validation.syntax,,,Enter a valid VAT number
+input.vat.validation.unique,,,The vat is associated to another Profile and can not be used
+install_device.already_in_use,,,The device is in use
+install_device.copy_link,,,Copy link
+install_device.headline,,,Install the GYM device APP
+install_device.install,,,Install
+install_device.install_successfully,,,Thanks for installing the GYM device APP<br>Close this browser window and continue with the APP
+install_device.no_a2hs,,,"To install the GYM Device APP use Chrome or Edge browser!<br><br>Click on the button below, open Chrome or Edge browser and paste the copied link in the address bar"
+install_device.powered_by,,,Powered by Cowellness
+install_device.title,,,Install GYM device APP
+install_pwa.access_your_app,,,Access to the APP of your GYM
+install_pwa.app,,,APP
+install_pwa.copy_link,,,Copy link
+install_pwa.have_you_installed,,,Do you already have the APP? Access from there
+install_pwa.headline,,,Install the APP of your GYM
+install_pwa.install,,,Install
+install_pwa.installed.still_install_after,,,to install it
+install_pwa.installed.still_install_before,,,APP NOT already installed? Click
+install_pwa.installed.text,,,"To have a better experience, use the APP of your GYM.<br>Close this browser and continue with the APP that you can find on your desktop or on setting as ""Your GYM APP by CW"""
+install_pwa.installed.title,,,Use the APP to continue
+install_pwa.no_a2hs,,,"To install the GYM Device APP use Chrome or Edge browser!<br><br>Click on the button below, open Chrome or Edge browser and paste the copied link in the address bar"
+install_pwa.powered_by,,,Powered by Cowellness
+install_pwa.thank_you,,,Thanks for downloading the APP<br> Close this browser window and continue with the APP
+install_pwa.title,,,Install APP
+languages.export_tooltip,,,Export
+languages.import_tooltip,,,Import
+measure.confirm_remove,,,Are you sure you want to delete {name}
+nav.accounting,,,Accounting
+nav.activities,,,Activities
+nav.assets,,,Assets
+nav.background,,,Background
+nav.background_adv,,,Background ADV
+nav.calendar,,,Calendar
+nav.cart,,,Cart
+nav.categories,,,Categories
+nav.colors,,,Color
+nav.colors_flavors,,,Color | Flavours
+nav.contacts,,,Contacts
+nav.countries,,,Countries
+nav.course_plan,,,Course plan
+nav.crm,,,CRM
+nav.cw_defaults,,,CW Defaults
+nav.earnings,,,Earnings
+nav.give_info,,,Give Info
+nav.gym,,,GYMs
+nav.home,,,Home
+nav.inventory,,,Inventory
+nav.logout,,,Logout
+nav.measures,,,Measures
+nav.membership_card,,,Membership Card
+nav.menu,,,Menu
+nav.messages,,,Messages
+nav.orders,,,Orders
+nav.other,,,Other
+nav.payments,,,Payments
+nav.payroll,,,Payroll
+nav.product_templates,,,Templates
+nav.products,,,Products
+nav.profile,,,Profile
+nav.promotions,,,Promotions
+nav.report,,,Reports
+nav.sales,,,Sales
+nav.shop,,,Shop
+nav.sport_interest,,,Sport interest
+nav.status,,,Status
+nav.subscribers,,,Subscribers
+nav.subscriptions,,,Subscriptions
+nav.surveys,,,Surveys
+nav.system_messages,,,System Messages
+nav.terms_of_payment,,,Terms of payment
+nav.training_plans,,,Training plans
+pages.age_target,,,Age Target
+pages.ask_info,,,Ask Info
+pages.book_shift,,,Book your shift
+pages.commercial_contract,,,Commercial Contract
+pages.install_device,,,Install GYM device APP
+pages.login,,,Gym APP by Cowellness
+pages.price_list,,,CW Price List
+pages.price_list.setup,,,Set-up
+pages.privacy_policy,,,Privacy Policies
+pages.profile,,,Profile
+pages.reset_pw,,,Password reset
+pages.role_documents,,,Role Documents
+pages.terms_n_conditions,,,Terms & Conditions
+pages.vat_rate,,,VAT Rate
+payment_systems.active_online,,,Active online
+payment_systems.name.placeholder,,,Payment name
+payment_systems.name.tooltip,,,Name of the Payment system
+payment_systems.title,,,Payment system
+payment_systems.type.placeholder,,,Type of payment
+payment_systems.type.tooltip,,,Select an integrated or not integrated payment system
+payment_systems.types.not_integrated,,,Not integrated
+payment_sytems.gateway.viva,,,Online
+payroll.award.deadline.label,,,Target time
+payroll.award.deadline.placeholder,,,When evaluate
+payroll.award.end.label,,,Target time
+payroll.award.end.placeholder,,,When evaluate
+payroll.award.label,,,Award's targets
+payroll.award.quantity.label,,,Target quantity
+payroll.award.target.label,,,Target type
+payroll.award.targets.client,,,Per client
+payroll.award.targets.clientQuantity,,,Per {quantity} client
+payroll.award.targets.clientTurnover,,,% direct client turnover
+payroll.award.targets.clientTurnoverQuantity,,,{quantity}% direct client turnover
+payroll.award.targets.companyTurnover,,,% company turnover
+payroll.award.targets.companyTurnoverQuantity,,,{quantity}% company turnover
+payroll.award.targets.courseParticipation,,,course participation %
+payroll.award.targets.courseParticipationQuantity,,,{quantity}% course participation
+payroll.award.targets.newClient,,,Per new client
+payroll.award.targets.newClientQuantity,,,Per {quantity} new client
+payroll.award.tooltip,,,"Choose the award to be added to the PAYROLL, define Target type and quantity, when the target should be reached and the value of the award (i.e. the salesman is awarded by % on turnover of clients assigned, time is 31.3.21 and value 5%); it will be used to calculate the related direct cost of the Business, etc"
+payroll.award.type.label,,,Target type
+payroll.award.types.client,,,Per client
+payroll.award.types.client_quantity,,,Per {quantity} client
+payroll.award.types.client_turnover,,,% direct client turnover
+payroll.award.types.client_turnover_quantity,,,{quantity}% direct client turnover
+payroll.award.types.company_turnover,,,% company turnover
+payroll.award.types.company_turnover_quantity,,,{quantity}% company turnover
+payroll.award.types.course_participation,,,course participation %
+payroll.award.types.course_participation_quantity,,,course participation {quantity}%
+payroll.award.types.new_client,,,Per new client
+payroll.award.types.new_client_quantity,,,Per {quantity} new client
+payroll.award.value.label,,,Target value
+payroll.modal.title,,,Payroll
+payroll.name.label,,,Pay name
+payroll.payroll.label,,,Payroll
+payroll.payroll.tooltip,,,Choose payment period once (weekly or monthly) and the name | what pay| how much pay per each occasion so that in any calendar event you can select the best fitting pay-out
+payroll.period.label,,,Period
+payroll.periods.month,,,Monthly
+payroll.periods.week,,,Weekly
+payroll.value.label,,,How much
+payroll.variable.label,,,Variable
+payroll.variables.client,,,Per client
+payroll.variables.client_turnover,,,% direct client turnover
+payroll.variables.company_turnover,,,% company turnover
+payroll.variables.companyTurnover,,,% company turnover
+payroll.variables.courseLesson,,,Per lesson
+payroll.variables.contact,,,Per contact
+payroll.variables.day,,,Per day
+payroll.variables.hour,,,Per hour
+payroll.variables.month,,,Per month
+payroll.variables.new_client,,,Per new client
+payroll.variables.new_contact,,,Per new contact
+payroll.variables.newClient,,,Per new client
+payroll.variables.newContact,,,Per new contact
+payroll.variables.week,,,Per week
+payroll.variables.year,,,Per year
+performance.age,,,Age
+performance.bmi,,,BMI
+performance.body_height,,,Body height
+performance.body_height.label,,,Height
+performance.body_weight,,,Body weight
+performance.body_weight.label,,,Weight
+performance.bone,,,Body bone mass
+performance.bone.abbr,,,BM
+performance.bone.label,,,Bone mass
+performance.contributive,,,contributive
+performance.date,,,Date
+performance.date.tooltip,,,"Date of measure, mandatory"
+performance.economic,,,economic
+performance.fat,,,Body fat mass
+performance.fat.abbr,,,FM
+performance.fat.label,,,fat mass
+performance.gender,,,Gender
+performance.muscle,,,Body muscle mass
+performance.muscle.abbr,,,MM
+performance.muscle.label,,,Muscle mass
+performance.progress,,,Progress
+performance.relationship,,,relationship
+performance.tissue,,,Body tissue mass
+performance.tissue.abbr,,,TM
+performance.tissue.label,,,Tissue mass
+performance.water.label,,,H20
+performance.water.placeholder,,,Body % of water
+performance.water.tooltip,,,"Body water, in percentage"
+price_list.active_from_signed,,,Active from signature date
+price_list.billed_to,,,Billed at
+price_list.commercial_contract,,,Contract Commercial
+price_list.description,,,Description
+price_list.price,,,Price
+price_list.setup,,,Set-up
+price_list.una_tantum,,,one shot accounted in advance
+price_list.variable_price,,,Variable price
+price_list.year_per,,,year per
+price_list.year_per_average,,,per active profile per year accounted daily on daily average
+privacy_policy.confirm_activate,,,Activate {name}?
+privacy_policy.cw_title,,,CW Privacy Policies
+privacy_policy.gym_title,,,GYM Privacy Policies
+product.categories.label,,,Product category
+product.categories.tooltip,,,Select a category among those suggested
+product.category_name,,,CATEGORY NAME
+product.category_name_placeholder,,,Category Name
+product.category_name_tooltip,,,Name of the Product category
+product.color_name_label,,,COLOR NAME
+product.color_name_placeholder,,,Color name
+product.color_name_tooltip,,,Name of the color in {language}
+product.color_or_taste,,,COLOR/TASTE
+product.color_or_taste_placeholder,,,Color and/or taste
+product.description.label,,,Description
+product.description.tooltip,,,General description of the product avoiding ingredents or technical details. Optional
+product.details.label,,,Product details
+product.details.tooltip,,,Ingredent and Nutitrion or specification
+product.group_category_label,,,GROUP CATEGORY
+product.group_category_placeholder,,,Group category
+product.group_category_tooltip,,,"Select the Group Category, optional"
+product.items.label,,,Add product items
+product.items.tooltip,,,Create items defining combinations of measures and color/flavours. Mandatory
+product.manufacturer.label,,,Product manufacturer name
+product.manufacturer.tooltip,,,The company name of the producer. Optional
+product.measure_name_label,,,MEASURE NAME
+product.measure_name_placeholder,,,Measure name
+product.measure_name_tooltip,,,Name of the measure in {language}
+product.name.label,,,Product name
+product.name.tooltip,,,"Product nanme avoiding sizes, weight, capacity, colours, flavors, (ex. POWERBAR | not POWERBAR 100G STRAWBERRY). Mandatory"
+product.sizes,,,SIZES
+product.sizes_placeholder,,,Sizes
+product_item.barcode ,,,barcode
+product_item.barcode.label,,,Barcode
+product_item.barcode.tooltip,,,Type the number you see on pack of the product
+product_item.colors.label,,,Flavor | Color
+product_item.colors.tooltip,,,"Add all the colours or flavours of the product you are willing to sell (e.g. Red, Green, Yellow, Orange, Multicolor). Select from suggestions or create new. Mandatory at least one"
+product_item.cost.label,,,Unit cost
+product_item.cost.tooltip,,,
+product_item.items,,,items
+product_item.pictures,,,pictures
+product_item.pictures.tooltip,,,
+product_item.price.label,,,Price
+product_item.price.tooltip,,,"Private = you can sell, but your client cannot see neither buy in self service; Public: you can sell and client can dee snd buy in self service and pick up in the Gym"
+product_item.prices,,,prices
+product_item.prices.replicate_type,,,
+product_item.private,,,PRIVATE
+product_item.public,,,PUBLIC
+product_item.quantities,,,quantities
+product_item.replicate_popup.all,,,All
+product_item.replicate_popup.none,,,None
+product_item.replicate_popup.not_show_again,,,Don't show me other suggestions in this flow!
+product_item.replicate_popup.title,,,You can replicate the {type} to:
+product_item.sizes.label,,,Measures
+product_item.sizes.tooltip,,,"Add all the sizes or weights or capacities related to the product that you are willing to sell (e.g. 330ml, 250ml, 500ml, 1lit, 1.5lit). Mandatory at least one"
+product_item.supplier.label,,,Supplier
+product_item.supplier.tooltip,,,
+product_item.target.children,,,Children
+product_item.target.female,,,Female
+product_item.target.label,,,Product target
+product_item.target.male,,,Male
+product_item.target.tooltip,,,"Select who is the product for from the suggestions. If product is for all, Select Unisex. Mandatory"
+product_item.target.unisex,,,Unisex
+product_item.total_selected,,,Total selected
+product_item.vatRateId.label,,,Retail VAT %
+product_item.vatRateId.tooltip,,,Select the retail tax rate to be applied to this product. Mandatory
+product_items.barcodes.label,,,Add barcode
+product_items.barcodes.tooltip,,,Define type and number of product barcode. Optional but useful if cashdesk use barcode scanner.
+product_items.confirm_remove,,,
+product_items.pictures.label,,,Add pictures
+product_items.pictures.tooltip,,,Upload one or more pictures per each item. Optional
+product_items.prices.label,,,Add prices
+product_items.prices.tooltip,,,Define the retail price for each item. Mandatory
+product_items.quantities.label,,,Add quantities
+product_items.quantities.tooltip,,,"Upload the first product upload to stock. Optional, can be done later"
+product_templates.title,,,Product templates
+products.out_of_stock,,,out of stock
+products.status.available,,,Available
+products.status.delisted,,,Delisted
+products.status.unavailable,,,Unavailable
+profile.acquisitionChannel.label,,,How did you know about us?
+profile.acquisitionChannel.tooltip,,,"Select the acquisition channel, optional"
+profile.actions.add_referent,,,add referent
+profile.actions.add_tutor,,,add tutor
+profile.actions.add_tutored,,,add tutored
+profile.actions.edit,,,Edit Profile
+profile.actions.unassign_contacts,,,Unassign Contacts
+profile.address.tooltip,,,"Enter the domicile or residential address of the Profile, optional"
+profile.assign_contact.assigned_to,,,To be assigned to
+profile.assign_contact.first_replier,,,To the first that replies
+profile.assign_contact.search_delegates,,,Search for delegates
+profile.banks.label,,,Add bank account
+profile.banks.tooltip,,,Enter bank account details
+profile.dob.label,,,Date of birth
+profile.dob.tooltip,,,"Select the date of birth, optional"
+profile.emails.label,,,Email
+profile.emails.tooltip,,,"Email address, optional"
+profile.entities.accesses,,,accesses
+profile.entities.app_background,,,app background
+profile.entities.assigned_contacts,,,assigned contacts
+profile.entities.auth_contacts,,,authorized contacts
+profile.entities.block_contact,,,block contact
+profile.entities.bookings,,,bookings
+profile.entities.certificates,,,certificates
+profile.entities.chat_plugin,,,Chat per website
+profile.entities.coming_soon,,,coming soon
+profile.entities.contracts,,,contracts
+profile.entities.credit_wallet,,,credit wallet
+profile.entities.export_contacts,,,export contacts
+profile.entities.gym_device,,,gym device
+profile.entities.gym_devices,,,gym devices
+profile.entities.import_contacts,,,import contacts
+profile.entities.membership,,,membership
+profile.entities.opening_times,,,opening times
+profile.entities.out_of_office,,,out of office
+profile.entities.payment_systems,,,payment systems
+profile.entities.performance,,,performance
+profile.entities.prizes,,,prizes
+profile.entities.profile_info,,,profile info
+profile.entities.purchases,,,purchases
+profile.entities.qr_codes,,,QR codes
+profile.entities.relationships,,,relationships
+profile.entities.request_custom_background,,,Request custom background
+profile.entities.request_custom_background_message,,,I would like to have my custom Background for me and for my contacts. Thanks.
+profile.entities.rooms,,,rooms
+profile.entities.subscriptions,,,subscriptions
+profile.entities.training_plans,,,training plans
+profile.entities.unblock_contact,,,Unblock contact
+profile.finish_modal.profiles_created,,,Profiles successfully created!
+profile.finish_modal.profiles_sent,,,Request sent for:
+profile.finish_modal.title,,,Profiles successfully created
+profile.firstname.label,,,NAME
+profile.firstname.tooltip,,,"Name of the person, optional"
+profile.gender.label,,,GENDER
+profile.gender.tooltip,,,"Choose the gender, it is an optional field"
+profile.info.name,,,Name
+profile.info.brand,,,Brand
+profile.info.bank_account,,,Bank account
+profile.info.director,,,Director
+profile.info.directors,,,Directors
+profile.info.vat,,,VAT ID
+profile.info.address,,,Address
+profile.info.fiscal,,,Fiscal ID
+profile.info.pec,,,Legal Email Address
+profile.info.emails,,,eMails
+profile.info.mobiles,,,Mobile Phones
+profile.info.landlines,,,Landline Phones
+profile.info.pins,,,Pins
+profile.info.sdi,,,Billing Unique Code
+profile.info.balanceStartDate,,,Balance sheet start date
+profile.landlines.label,,,Landline
+profile.landlines.tooltip,,,"Landline phone number, optional"
+profile.lastname.label,,,SURNAME
+profile.lastname.tooltip,,,"Your surname, it is an optional field"
+profile.mobiles.label,,,"Personal mobile phone, can add more than one"
+profile.mobiles.tooltip,,,"Mobile phone number, optional"
+profile.notes.label,,,Notes
+profile.notes.tooltip,,,"Enter your notes, optional"
+profile.onlineLinks.label,,,Online link
+profile.onlineLinks.tooltip,,,"Enter social/web links: website, facebook, linkedin, Instagram or twitter. Optional"
+profile.password.label,,,Password
+profile.password.tooltip,,,Enter profile password
+profile.performance.empty_detail,,,Add a measurement
+profile.performance.manage,,,Manage Bio Performance
+profile.pins.label,,,PIN
+profile.pins.tooltip,,,"PIN number, optional"
+profile.pob.label,,,Place of birth
+profile.pob.tooltip,,,"Select the place of birth, optional"
+profile.relationship.sent,,,{role} invitation has been sent to {firstname} {lastname}
+profile.relationship.invitation_title,,,CoWellness Invite
+profile.relationship.invitation_text,,,I would like to invite you to register to cowellness service and connect with you
+profile.roles.label,,,Add role
+profile.roles.tooltip,,,"Add one or more business role, optional"
+profile.shortDescription.label,,,Short description
+profile.shortDescription.tooltip,,,
+profile.signature.label,,,Signature
+profile.signature.tooltip,,,Add your signature
+profile.sportInterests.label,,,Sport interest
+profile.sportInterests.tooltip,,,"Select the sport interest, optional"
+profile.tins.label,,,TIN
+profile.tins.tooltip,,,"TIN number, optional"
+profile.tutors.label,,,Add tutor
+profile.tutors.tooltip,,,Add one or more Tutor in case of not emancipated person
+profile.tutors.validation.required,,,To continue it’s necessary to add a Tutor
+profile.user.allow_access,,,allow access
+profile.user.is_interesting,,,Interesing profile
+profile.user.no_prospect,,,no prospect
+profile.user.reactivate_relationship,,,reactivate relationship
+profile.user.send_reg_link,,,send registeratin link
+profile.user.send_to_device,,,send to device
+profile.user.to_be_confirmed,,,To be confirmed
+profile.user.reglink_sent,,,Registration link successfully sent to {email}
+profile.validation.email_or_mobile_or_pin,,,Enter email address or mobile number or PIN number
+profile_complete.headline.default,,,Complete your profile to have full access
+profile_complete.headline.emancipation.with_tutor,,,Ask your tutor to complete your profile and have full access
+profile_complete.headline.emancipation.without_tutor,,,Invite a new tutor to have full access
+profile_complete.stop_showing_again,,,top showing this again on this browser
+promotion.coupon_type,,,Coupon Type
+promotion.date.end_date,,,End Date
+promotion.date.start_date,,,Start Date
+promotion.name,,,PROMOTION NAME
+promotion.name_tooltip,,,"Be explicative, avoid word <discount> in other to recognize it among all discounts"
+promotion.product_or_subscription,,,Product/Subscription
+promotion.product_or_subscription.tooltip,,,Subscription to be discounted
+promotion.quantity,,,Quantities
+promotion.quantity.tooltip,,,Limit the number of discounts
+promotion.target,,,target
+promotion.target.tooltip,,,People can apply for the discount
+promotion.time.end_time,,,End Time
+promotion.time.start_time,,,Start Time
+promotion.value,,,Value
+promotion.value.tooltip,,,"Or % or value, write the figures and select the type suggested"
+push_subscription.enable,,,Enable
+push_subscription.text,,,Enable push notifications to receive alerts on your courses and important messages from your GYM
+push_subscription.title,,,Push Notifications
+qr.scanner.error.NotAllowedError,,,You need to grant camera access permisson
+qr.scanner.error.NotFoundError,,,No camera on this device
+qr.scanner.error.NotReadableError,,,Is the camera already in use?
+qr.scanner.error.NotSupportedError,,,"Secure context required (HTTPS, localhost)"
+qr.scanner.error.OverconstrainedError,,,Installed cameras are not suitable
+qr.scanner.error.StreamApiN otSupportedError,,,Stream API is not supported in this browser
+qr_scanner.message_popup.already_connected,,,You've already connected with {name}
+qr_scanner.message_popup.connect_fail,,,Can't connect to this profile at the moment
+qr_scanner.message_popup.connected,,,You're now connected with {name}
+qr_scanner.message_popup.welcome,,,Welcome {name}
+qr_scanner.qr_code,,,QR Code
+qr_scanner.scanner,,,QR Scanner
+register.name.label,,,NAME
+register.surname.label,,,SURNAME
+rentabble.min_duration.label,,,
+rentable.0_vat_weight.label,,,weight of 0% vat
+rentable.0_vat_weight.tooltip,,,minimum rental duration in minutes
+rentable.add_exception.tooltip,,,"Do you want to close for holiday? Add an exception, define a period and the rentable will not be available for that period"
+rentable.assets.label,,,bookable assets
+rentable.assets.tooltip,,,"assets, rooms, courts to be involved"
+rentable.duration.defined,,,defined
+rentable.duration.flexible,,,flexible
+rentable.fixed_price.label,,,fixed price
+rentable.fixed_price.tooltip,,,How much is 1 hour fix rent?
+rentable.full_rent.label,,,What Can be Rented
+rentable.full_rent.tooltip,,,"Do you want to close for holiday? Add an exception, define a period and the rentable will not be available for that period"
+rentable.is_public.label,,,Should be public
+rentable.is_public.tooltip,,,"Public means that all the client will see anc can buy it, Private means that only direct invited people can see is and can buy"
+rentable.max_places.label,,,max places
+rentable.min_duration.tooltip,,,minimum rental duration in minutes
+rentable.name_icon.label,,,name and icon
+rentable.notes.label,,,Notes
+rentable.notes.tooltip,,,"Enter your notes, optional"
+rentable.person_price.label,,,price per person
+rentable.person_price.tooltip,,,The retail price will be calculated «hourly fix price» plus «hourly per person price
+rentable.rental_starting.label,,,rental rental_starting
+rentable.rental_starting.tooltip,,,rental starting time within the hour
+rentable.service_type.course,,,Course
+rentable.service_type.label,,,service type
+rentable.service_type.rentable,,,Rentable
+rentable.service_type.tooltip,,,Select if you want to create a Course or a Space to rent.
+rentable.timings.label,,,rentable timings
+rentable.timings.tooltip,,,"Timing of a rentable is coping the opening gym timing; to change it, you should work day‐card by day‐ card"
+rentable.vat_rate.label,,,vat rate
+rentable.vat_rate.tooltip,,,Standard VAT rate for this rent
+report.accesses,,,Accesses
+report.active_contact,,,Active Contacts
+report.active_contacts,,,Active Contacts
+report.active_sport,,,Active contacts by sport
+report.active_trend_contacts,,,Active Contact Trend
+report.budget,,,Budget
+report.channel,,,Contacts by acquisition channel
+report.channel_tooltip,,,where does the contacts come from? Is something changing
+report.cold_contact,,,Cold Contacts
+report.company_contact,,,Company Contacts
+report.contact,,,Contacts
+report.contact_by_channel,,,Contact by channel
+report.contact_by_sport,,,Contact by sport
+report.gym_access,,,"Total and unique access, gym and single asset, plus variation versus previous Year or Period and budget"
+report.previous_period,,,Vs previous period
+report.previous_year,,,Vs previous period
+report.sport_tooltip,,,Active contact by sport trend; how is changing the interest in sport of your contacts
+report.tooltip,,,It shows trend of contacts divide by type per each month selected and variation versus previous Year or Period
+report.trend_access,,,Access Trend
+report.trend_access_tooltip,,,"Total and unique access, gym and single asset, plus variation versus previous Year or Period and budget"
+report.trend_contacts,,,Trend Contacts
+reset_pw.invalid_token_msg,,,The reset password url is invalid or has expired
+reset_pw.password_label,,,New password
+reset_pw.password_tooltip,,,Enter new password
+reset_pw.success_msg,,,Password successfully changed
+reset_pw.title,,,Password Reset
+role.validation.start_before_end,,,Start date must be before end date
+role_characterisitics.contracts.salesman,,,salesman contract
+role_characterisitics.contracts.trainer,,,trainer contract
+role_characterisitics.no_end,,,no end
+role_documents.confirm_activate,,,Activate {name}?
+role_documents.confirm_remove,,,Are you sure you want to delete {name}?
+role_documents.operator,,,Operator declaration
+role_documents.personating,,,Responsability of personating
+role_documents.referent,,,Referent declaration
+role_documents.salesman,,,Salesman declaration
+role_documents.trainer,,,Trainer declaration
+role_documents.tutor,,,Tutor declaration
+roles.CT,,,Course trainer
+roles.DI,,,Director
+roles.FR,,,Friend
+roles.of,,,{role} of
+roles.OP,,,Operator
+roles.PT,,,Personal trainer
+roles.RC,,,Receptionist
+roles.RE,,,Referent
+roles.SA,,,Sport assistant
+roles.SN,,,Sanificator
+roles.SP,,,Sales person
+roles.TR,,,Trainer
+roles.TT,,,Tutor
+roles.TTD,,,Tutored
+send_device_modal.description,,,Send the Profiles that are in the GYM to the GYM DEVICE to activate their own account
+send_device_modal.failed_message,,,No GYM device available at the moment
+send_device_modal.list_title,,,GYM device
+send_device_modal.sent_title,,,
+send_device_popup.abort_message,,,Send to Gym device NOT completed”
+send_device_popup.fail_message,,,Send to Gym device NOT successful
+send_device_popup.sent,,,Sent to {deviceName} successfully
+send_device_popup.title,,,Gym device?
+settings.countries.ageTarget.emancipation,,,Emancipation age
+settings.countries.ageTarget.tutor,,,Minimum tutor age
+settings.countries.ageTarget.working,,,Minimum working age
+settings.countries.cwCommercialContract.contract,,,CW Commercial Contract
+settings.countries.cwCommercialContract.prefix.contract,,,CW Contract
+settings.countries.gymCommercialContract.contract,,,GYM Commercial Contract
+settings.countries.gymCommercialContract.prefix.contract,,,GYM Contract
+settings.countries.pricelist.accounting,,,Accounting
+settings.countries.pricelist.activeContact,,,active contact
+settings.countries.pricelist.uploadedProfile,,,uploaded profile
+settings.countries.pricelist.budgeting,,,Budgeting
+settings.countries.pricelist.client,,,client
+settings.countries.pricelist.collaborator,,,collaborator
+settings.countries.pricelist.crmClientLifeCicle,,,CRM Client Life Cicle
+settings.countries.pricelist.crmMgmPromo,,,CRM MGM Promo
+settings.countries.pricelist.entiPromozioneSportiva,,,Enti Promozione Sportiva
+settings.countries.pricelist.hr,,,HR
+settings.countries.pricelist.message,,,message
+settings.countries.pricelist.newClient,,,new client
+settings.countries.pricelist.newClientFromMgm,,,new MGM Client
+settings.countries.pricelist.notifications,,,Notifications
+settings.countries.pricelist.payment,,,Payment
+settings.countries.pricelist.percentageOfTransaction,,,percentage of transaction
+settings.countries.pricelist.phoneHelpDesk,,,Phone Help Desk
+settings.countries.pricelist.prefix.accounting,,,Accounting
+settings.countries.pricelist.prefix.budgeting,,,Budgeting
+settings.countries.pricelist.prefix.crmClientLifeCicle,,,CRM Client Life Cicle
+settings.countries.pricelist.prefix.crmMgmPromo,,,CRM MGM Promo
+settings.countries.pricelist.prefix.entiPromozioneSportiva,,,Enti Promozione Sportiva
+settings.countries.pricelist.prefix.hr,,,HR
+settings.countries.pricelist.prefix.payment,,,Payment
+settings.countries.pricelist.prefix.phoneHelpDesk,,,Phone Help Desk
+settings.countries.pricelist.prefix.readyToUse,,,Ready to Use
+settings.countries.pricelist.prefix.start,,,Start
+settings.countries.pricelist.prefix.trainingPlan,,,Training Plan
+settings.countries.pricelist.readyToUse,,,Ready to Use
+settings.countries.pricelist.sharedClient,,,shared client
+settings.countries.pricelist.smsMessage,,,SMS Message
+settings.countries.pricelist.start,,,Start
+settings.countries.pricelist.trainingPlan,,,Training Plan
+settings.countries.privacy_policy.cw,,,CW Privacy Policies
+settings.countries.privacy_policy.gym,,,GYM Privacy Policies
+settings.countries.privacy_policy.prefix.cw,,,CW Privacy
+settings.countries.privacy_policy.prefix.gym,,,GYM Privacy
+settings.countries.role_documents.cleaner,,,Cleaner
+settings.countries.role_documents.course_trainer,,,Course trainer
+settings.countries.role_documents.director,,,Director declaration
+settings.countries.role_documents.operator,,,Operator declaration
+settings.countries.role_documents.personal_trainer,,,Personal trainer
+settings.countries.role_documents.personating,,,Responsability of personating
+settings.countries.role_documents.prefix.cleaner,,,Cleaner
+settings.countries.role_documents.prefix.course_trainer,,,Course trainer
+settings.countries.role_documents.prefix.director,,,Director
+settings.countries.role_documents.prefix.operator,,,Operator
+settings.countries.role_documents.prefix.personating,,,Personating
+settings.countries.role_documents.prefix.referent,,,Referent
+settings.countries.role_documents.prefix.salesman,,,Salesman
+settings.countries.role_documents.prefix.salesperson,,,Sales person
+settings.countries.role_documents.prefix.sport_assistant,,,Sport assistant
+settings.countries.role_documents.prefix.personal_trainer,,,Personal trainer
+settings.countries.role_documents.prefix.tutor,,,Tutor
+settings.countries.role_documents.referent,,,Referent declaration
+settings.countries.role_documents.salesman,,,Salesman declaration
+settings.countries.role_documents.salesperson,,,Sales person
+settings.countries.role_documents.sport_assistant,,,Sport assistant
+settings.countries.role_documents.trainer,,,Trainer declaration
+settings.countries.role_documents.tutor,,,Tutor declaration
+settings.countries.terms_and_conditions.cw,,,CW T&C
+settings.countries.terms_and_conditions.gym,,,GYM T&C
+settings.countries.terms_and_conditions.prefix.cw,,,CW T&C
+settings.countries.terms_and_conditions.prefix.gym,,,GYM T&C
+settings.countries.tooltip.stats_gym,,,Δ vs previous 30dd (Active | Suspended)
+settings.countries.tooltip.stats_profile,,,Δ vs previous 30dd (Active | Temporary)
+settings.countries.vat_rate.confirm_default,,,Are you sure you want to set this vat rate as default?
+settings.countries.vat_rate.confirm_delete,,,Are you sure to delete VAT Rate?
+settings.profile.connect_calendar,,,connect calendar
+settings.profile.unit_of_measure,,,unit of measure
+signin.forgot_password,,,Forgot password?
+signin.password_label,,,Password
+signin.password_tooltip,,,"Don't you have a password? Create your profile using the squared button below. Don't you remember the password? Click on ""Forgot password"""
+signin.signup_tooltip,,,Create new account
+signin.sub_title,,,Powered by Cowellness
+signin.submit,,,Login
+signin.user_id_label,,,USER ID
+signin.user_id_placeholder,,,Your email or mobile phone or PIN
+signin.user_id_tooltip,,,"To access your Gym's APP, use one among your email or mobile number or PIN"
+singin.title,,,Access to the APP of {gymName}
+sport.cat_label,,,Sport Category
+sport.cat_tooltip,,,Sport Category
+sport.confirm_remove,,,Are you sure to remove this sport interest?
+sport.lang_en_label,,,English
+sport.lang_en_tooltip,,,English Language
+system_messages.channel_label,,,Channel
+system_messages.channel_tooltip,,,Channel
+system_messages.confirm_remove,,,Are you sure to remove section {title}?
+system_messages.content_tooltip,,,{language}
+system_messages.create_new_section,,,Create new section
+system_messages.export_tooltip,,,Export
+system_messages.import_tooltip,,,Import
+system_messages.key_label,,,Key
+system_messages.key_tooltip,,,Key
+system_messages.notes_label,,,Notes
+system_messages.notes_tooltip,,,Notes
+system_messages.section_label,,,Section
+system_messages.section_tooltip,,,Section
+system_messages.title_label,,,NAME
+system_messages.title_tooltip,,,Name
+system_messages.translations_label,,,Translations
+system_messages.translations_placeholder,,,Message
+term_payment.confirm_remove,,,Are you sure to remove this term of payment?
+term_payment.delay_label,,,Days of delay
+term_payment.delay_tooltip,,,"Enter the day of delay, mandatory"
+term_payment.name_en_label,,,ENGLISH
+term_payment.name_en_placeholder,,,Payment name to be selected when selling
+term_payment.name_en_tooltip,,,Name of the term of payment
+term_payment.translation,,,Translation
+term_payment.type_day,,,DAY
+term_payment.type_eom,,,EOM
+terms_n_conditions.confirm_activate,,,Activate {name}?
+terms_n_conditions.confirm_remove,,,Are you sure you want to delete {name}?
+terms_n_conditions.cw_title,,,CW T&C
+terms_n_conditions.gym_title,,,GYM T&C
+translation.export_modal_title,,,Export Translations
+translation.key_identifier_label,,,Key
+translation.key_identifier_tooltip,,,Key identifier
+translation.lang_en_label,,,English
+translation.lang_en_tooltip,,,English Language
+units.date,,,date
+units.distance,,,distance
+units.number,,,numbers
+units.temperature,,,temperature
+units.weight,,,weight
+validation.required,,,This field is mandatory
+wallet.ask_to_pay,,,Ask to pay
+wallet.balance,,,Balance
+wallet.if_filtered,,,if filtered {profile}
+wallet.installments,,,Installments
+wallet.order_preview,,,Order Preview
+wallet.plafond,,,Plafond
+wallet.receipt,,,Receipt
+wallet.set_plafond.title,,,Set here the maximum debt each client can reach without having their access blocked

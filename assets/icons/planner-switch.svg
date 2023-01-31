@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-170.000000, -2675.000000)" fill="#BE0000">
+            <g id="Group-2" transform="translate(170.000000, 2675.000000)">
+                <path d="M15,30 C6.71572875,30 0,23.2842712 0,15 C0,6.71572875 6.71572875,0 15,0 C23.2842712,0 30,6.71572875 30,15 C30,23.2842712 23.2842712,30 15,30 Z M14.44,14.5172414 L14.44,11.9172414 L15.7,11.9172414 C16.7,11.9172414 17.08,12.4372414 17.08,13.2172414 C17.08,13.9972414 16.7,14.5172414 15.7,14.5172414 L14.44,14.5172414 Z M21.58,13.2172414 C21.58,10.3572414 19.76,8.35724138 16.2,8.35724138 L10,8.35724138 L10,22.5172414 L14.44,22.5172414 L14.44,18.0172414 L16.2,18.0172414 C19.76,18.0172414 21.58,15.8372414 21.58,13.2172414 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

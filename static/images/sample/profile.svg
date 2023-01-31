@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Add_Person 2 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Add_Person-2-Copy-2">
+            <g id="Add_Person">
+                <circle id="Oval" fill="#E0E5E7" cx="30" cy="30" r="30"></circle>
+                <path d="M21.7725131,48.3737806 L38.4944575,48.3737806 C43.8916674,48.3737806 48.2669705,43.9984775 48.2669705,38.6012676 L48.2669705,38.6012676 C48.2669705,35.9851819 46.0283943,33.8644255 43.2669705,33.8644255 L17,33.8644255 C14.2385762,33.8644255 12,35.9851819 12,38.6012676 C12,43.9984775 16.3753031,48.3737806 21.7725131,48.3737806 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="1.5" fill="#FFFFFF"></path>
+                <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="1.5" fill="#FFFFFF" cx="30.0101132" cy="18" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

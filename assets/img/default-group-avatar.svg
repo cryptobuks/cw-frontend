@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Add_Person 2 Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Add_Person-2-Copy-3">
+            <g id="Add_Person">
+                <circle id="Oval" fill="#E0E5E7" cx="30" cy="30" r="30"></circle>
+                <g id="Group" transform="translate(4.000000, 20.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.5">
+                    <path d="M12.0772287,11.9322127 C10.7831783,13.4236834 10,15.3703812 10,17.5 C10,18.0775615 10.0576041,18.6416689 10.1673805,19.1868903 L4.88625653,19.1868903 C2.18765156,19.1868903 5.71739027e-14,16.9992388 5.68434189e-14,14.3006338 C5.68434189e-14,12.9925909 1.11928812,11.9322127 2.5,11.9322127 L12.0772287,11.9322127 Z" id="Combined-Shape"></path>
+                    <circle id="Oval-Copy" cx="9.00505659" cy="4" r="4"></circle>
+                </g>
+                <g id="Group" transform="translate(48.000000, 30.000000) scale(-1, 1) translate(-48.000000, -30.000000) translate(41.000000, 20.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.5">
+                    <path d="M12.0772287,11.9322127 C10.7831783,13.4236834 10,15.3703812 10,17.5 C10,18.0775615 10.0576041,18.6416689 10.1673805,19.1868903 L4.88625653,19.1868903 C2.18765156,19.1868903 5.71739027e-14,16.9992388 5.68434189e-14,14.3006338 C5.68434189e-14,12.9925909 1.11928812,11.9322127 2.5,11.9322127 L12.0772287,11.9322127 Z" id="Combined-Shape"></path>
+                    <circle id="Oval-Copy" cx="9.00505659" cy="4" r="4"></circle>
+                </g>
+                <g id="Group" transform="translate(17.000000, 18.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1.5">
+                    <path d="M7.40885052,26.5367353 L17.4451589,26.5367353 C21.536954,26.5367353 24.8540094,23.21968 24.8540094,19.1278848 L24.8540094,19.1278848 C24.8540094,17.1445477 23.3198974,15.5367353 21.4274743,15.5367353 L3.42653509,15.5367353 C1.53411201,15.5367353 0,17.1445477 0,19.1278848 C5.01100384e-16,23.21968 3.31705537,26.5367353 7.40885052,26.5367353 Z" id="Rectangle"></path>
+                    <circle id="Oval-Copy" cx="12.0683341" cy="5.20833333" r="5.20833333"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
